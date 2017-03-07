@@ -1,0 +1,255 @@
+	"ab"		"Good"		Passed
+
+
+	"aab"		"Bad"		Passed
+
+
+	"aabb"		"Good"		Passed
+
+
+	"ababab"		"Good"		Passed
+
+
+	"abaababababbaabbaaaabaababaabbabaaabbbbbbbb"		"Bad"		Passed
+
+
+	"aaaaaaaabbbaaabaaabbabababababaabbbbaabbabbbbbbabb"		"Good"		Passed
+
+
+	"a"		"Bad"		Passed
+
+
+	"b"		"Bad"		Passed
+
+
+	"bb"		"Bad"		Passed
+
+
+	"ab"		"Good"		Passed
+
+
+	"ba"		"Bad"		Passed
+
+
+	"aa"		"Bad"		Passed
+
+
+	"bbbb"		"Bad"		Passed
+
+
+	"abbb"		"Bad"		Passed
+
+
+	"babb"		"Bad"		Passed
+
+
+	"aabb"		"Good"		Passed
+
+
+	"bbab"		"Bad"		Passed
+
+
+	"abab"		"Good"		Passed
+
+
+	"baab"		"Bad"		Passed
+
+
+	"aaab"		"Bad"		Passed
+
+
+	"bbba"		"Bad"		Passed
+
+
+	"abba"		"Bad"		Passed
+
+
+	"baba"		"Bad"		Passed
+
+
+	"aaba"		"Bad"		Passed
+
+
+	"bbaa"		"Bad"		Passed
+
+
+	"abaa"		"Bad"		Passed
+
+
+	"baaa"		"Bad"		Passed
+
+
+	"aaaa"		"Bad"		Passed
+
+
+	"aaabbb"		"Good"		Passed
+
+
+	"aaaabbbb"		"Good"		Passed
+
+
+	"aaabbababb"		"Good"		Passed
+
+
+	"aaaababbbabb"		"Good"		Passed
+
+
+	"aaaaabbbbbaabb"		"Good"		Passed
+
+
+	"aaabaaababbbabbb"		"Good"		Passed
+
+
+	"aaabaababbaababbbb"		"Good"		Passed
+
+
+	"abaaaaaabababbbbabbb"		"Good"		Passed
+
+
+	"aaaabbbabb"		"Good"		Passed
+
+
+	"aaaabaaabaabbbabbbbb"		"Good"		Passed
+
+
+	"aaaabbaaaaababbabaaababbbbbbbb"		"Good"		Passed
+
+
+	"aaaaaaabbbabaaaaaaabbaaaabbbbabbbbbbbbbb"		"Good"		Passed
+
+
+	"aaaaaaaaaabababbbababbbaaaabaabbabbababbbbabbbabbb"		"Good"		Passed
+
+
+	"aaaaabaabaaaabaabaabaaabbbbbbbabbabbbbbb"		"Good"		Passed
+
+
+	"aabaaaaaabaaabbabaaabbbbbbbababbaabbabbb"		"Good"		Passed
+
+
+	"aaaaaabaaabbbaabaabbaababbbabababbbababbbb"		"Good"		Passed
+
+
+	"aaaabbaabaaaaaabbaaaabbaaabababbbbbbbbbbbb"		"Good"		Passed
+
+
+	"aaaabaaababbaaaabaaaabbaabbbbababbbabbabbbbb"		"Good"		Passed
+
+
+	"aabaaaaaaaababbabaaabababaabbbabbbbabbabbbbb"		"Good"		Passed
+
+
+	"aabaaaaaabaabbaaabbaabbabbbbaabbabababbbbababb"		"Good"		Passed
+
+
+	"aaaabaaaaaababababaabaabababbabbbbaabbbbbbbabb"		"Good"		Passed
+
+
+	"aabaabaabaaaaaaaabaabbaabbbbabbaabbbbbbabbaabbbb"		"Good"		Passed
+
+
+	"aaaaaaabaababbaaaabaabbabbaaaababbbbbbaabbbbbbbb"		"Good"		Passed
+
+
+	"aaaaaaaabbbaaabaaabbabababababaabbbbaabbabbbbbbabb"		"Good"		Passed
+
+
+	"aaabaaaabbbaaabaabaabaabbabaabbaabbabbbaabbbabbbbb"		"Good"		Passed
+
+
+	"babaab"		"Bad"		Passed
+
+
+	"abbaaabb"		"Bad"		Passed
+
+
+	"bbbaaabaab"		"Bad"		Passed
+
+
+	"abaabababbab"		"Good"		Passed
+
+
+	"babbaabaaaabbb"		"Bad"		Passed
+
+
+	"babbbbaaaabaabab"		"Bad"		Passed
+
+
+	"aababbabbaabbaaabb"		"Bad"		Passed
+
+
+	"baaaaaaabbbaaabbbbbb"		"Bad"		Passed
+
+
+	"bbaababaab"		"Bad"		Passed
+
+
+	"bbabbaabababbaabaaab"		"Bad"		Passed
+
+
+	"baabaabbabaababaabaabaababbbbb"		"Bad"		Passed
+
+
+	"aabbabbbbbaaababaabbaabaaabbbbabbaabaaab"		"Bad"		Passed
+
+
+	"bababbabababbbaabbababbbaabababbaabbaababaaaabaaab"		"Bad"		Passed
+
+
+	"baababbbaaaabaaaabbabbbaababbaabababbbab"		"Bad"		Passed
+
+
+	"bbaabaabbaabbabbbbaaaaaabaaabaabbabbbbab"		"Bad"		Passed
+
+
+	"abaababababbaabbaaaabaababaabbabaaabbbbbbb"		"Good"		Passed
+
+
+	"babababaaabbbaababababbbbaababaabaaababbab"		"Bad"		Passed
+
+
+	"baaabaabbaaabbbbbbabbabaabaababbaabbaaaaabbb"		"Bad"		Passed
+
+
+	"abaaaaababbaaabbaaabbbabaababbbabbbbbbbaaaab"		"Bad"		Passed
+
+
+	"babaaaaaabaaabbababbabbbababbaabbabbbbaaaabbab"		"Bad"		Passed
+
+
+	"abbbbabbaaaaabbaababaabbabaaababaababbbbbabaab"		"Bad"		Passed
+
+
+	"ababbbaababbaababaababaabaaaabababaaabbbabbbabbb"		"Bad"		Passed
+
+
+	"abbbbabaaabbbbaabbaabbbbbaababbaaaabbbaaaaabaaab"		"Bad"		Passed
+
+
+	"ababbaababaabbabbabbbaabaaabbaaaabbaaaabbaabbbbbab"		"Bad"		Passed
+
+
+	"baabbbbabbabbababaaabbaaaabbabbbbaaabbaaaaaaababbb"		"Bad"		Passed
+
+
+	"bbbbbbaaaaaa"		"Bad"		Passed
+
+
+	"ababba"		"Bad"		Passed
+
+
+	"bbbaaa"		"Bad"		Passed
+
+
+	"abbaab"		"Bad"		Passed
+
+
+	"baabb"		"Bad"		Passed
+
+
+	"abbbaaab"		"Bad"		Passed
+
+
+	"aaaabb"		"Bad"		Passed
+
+

@@ -1,0 +1,402 @@
+	{3, 2, 2}, {"Odd", "Odd", "Even"}		1		Passed
+
+
+	{1, 3, 5, 10}, {"Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{2, 3, 5, 10}, {"Even", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{2, 4, 6, 10}, {"Even", "Even", "Even", "Even"}		-1		Passed
+
+
+	{107}, {"Odd"}		0		Passed
+
+
+	{1, 1, 1}, {"Odd", "Odd", "Even"}		2		Passed
+
+
+	{468, 335, 501, 170, 725, 479, 359, 963, 465, 706, 146, 282, 828, 962, 492, 996, 943, 828, 437, 392, 605, 903, 154, 293, 383, 422, 717, 719, 896, 448, 727, 772, 539, 870, 913, 668, 300, 36, 895, 704, 812, 323}, {"Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Odd", "Even", "Even", "Odd"}		2		Passed
+
+
+	{711, 253, 869, 547, 645, 663, 757, 37, 859, 723, 741, 529, 779, 317, 35, 191, 843, 289, 107, 41, 943, 265, 649, 447, 805, 891, 729, 371, 351, 7, 101, 393, 549, 629, 623, 85, 955, 757, 841, 967, 377, 932}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{627, 324, 538, 539, 119, 83, 930, 542, 834, 116, 640, 659, 705, 931, 978, 307, 674, 387, 22, 746, 925, 73, 271, 830, 778, 574, 98, 513, 987, 291, 162, 637, 356, 768, 656, 575, 32, 53, 351, 151}, {"Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd"}		-1		Passed
+
+
+	{431, 108, 192, 8, 338, 458, 288, 754, 384, 946, 910, 210, 759, 222, 589, 423, 947}, {"Odd", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd"}		-1		Passed
+
+
+	{169, 901, 592, 763, 656, 411, 360, 625, 538, 549, 484, 596, 42, 603}, {"Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd"}		8		Passed
+
+
+	{21, 597, 22, 349, 200, 669, 485, 282, 735, 54, 1000, 419, 939, 901, 789, 128, 468, 729, 894, 649, 484, 808, 422, 311, 618}, {"Odd", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Odd", "Even"}		-1		Passed
+
+
+	{617, 935, 451, 601, 249, 519, 557, 799, 303, 225}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd"}		0		Passed
+
+
+	{989, 703, 195, 485, 93, 343, 523, 587, 315, 504}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{619, 581, 797, 799, 281, 589, 799, 9, 158}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{293, 39, 180, 191, 658, 959, 192, 816, 889, 157, 512, 203, 635, 273, 56, 329, 647, 363, 887, 876, 434, 870, 143, 845, 417, 882, 999, 323, 652, 22, 700, 558, 477, 893, 390, 76, 713, 601, 511}, {"Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even"}		38		Passed
+
+
+	{402, 790, 256, 424, 3, 586, 183, 286, 89, 427, 618, 758, 833, 933, 170, 155, 722, 190, 977, 330, 369, 693, 426, 556, 435, 550, 442, 513, 146, 61, 719, 754, 140, 424, 280, 997, 688, 530, 550}, {"Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{194, 196, 298, 417, 287, 106, 489, 283, 456, 735, 115, 702, 317, 672, 787, 264, 314, 356, 186, 54, 913, 809, 833, 946, 314, 757, 322, 559, 647, 983, 482, 145, 197, 223, 130, 162, 536, 451, 174, 467, 45, 660, 293, 440, 254, 25, 155, 511, 746, 650}, {"Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{169, 19, 788, 906, 959, 392, 203, 626, 478, 415, 315, 825, 335, 875, 373, 160, 834, 71, 488, 298, 519, 178, 774}, {"Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Even", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{986, 103, 481, 214, 628, 803, 100, 528, 626, 544, 925, 24, 973, 62, 182, 4, 433, 506, 594, 726, 32, 493, 143, 223, 287, 65, 901, 188, 361, 414, 975, 271, 171, 236, 834, 712, 761, 897, 668, 286, 551, 141, 695}, {"Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Odd"}		-1		Passed
+
+
+	{126, 577, 695, 659, 303, 372, 467, 679, 594, 852, 485, 19, 465, 120, 153, 801, 88, 61, 927, 11}, {"Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Odd"}		-1		Passed
+
+
+	{577, 228, 44, 759, 165, 110, 883, 87, 566, 488, 578, 475, 626, 628, 630, 929}, {"Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Odd"}		-1		Passed
+
+
+	{963, 124, 597}, {"Odd", "Odd", "Odd"}		1		Passed
+
+
+	{265, 261, 203, 117, 31, 327, 12, 772, 412, 548, 154, 521, 791, 925, 189, 764, 941, 852, 663, 830, 901, 714, 959, 579, 366, 8}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{440, 304, 761, 358, 325, 478, 109, 114, 888}, {"Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{429, 994, 385, 406, 541, 112, 705, 836, 357, 73, 351}, {"Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd"}		-1		Passed
+
+
+	{627, 358, 527, 358, 338, 272, 870, 362, 897, 23, 618, 113, 718, 697, 586, 42, 424}, {"Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even"}		9		Passed
+
+
+	{933, 297, 856, 54, 963, 585, 735, 655, 973, 458}, {"Odd", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{608, 484, 912, 636, 68, 849, 676, 939, 224, 143, 755, 512, 742, 176}, {"Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{627, 935, 206, 784, 851, 399, 280, 702, 194, 735, 638, 535, 557, 994, 177, 706, 963, 549, 882, 301, 414}, {"Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Even"}		12		Passed
+
+
+	{463, 612, 878, 425, 679, 753, 444, 297, 674, 41, 314, 876, 73, 819, 611, 18, 933, 113, 696, 170, 832, 41, 489, 686, 91, 498, 590, 991, 146, 354, 315, 652, 741, 45, 259, 336, 760, 193, 606, 265, 182, 504, 830}, {"Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{998, 550, 557, 562, 628, 468, 542, 130, 241, 814, 175, 602, 78, 216, 684, 214, 993, 825, 602, 393, 760, 671, 429, 28, 85, 76, 787, 499, 971, 288, 848, 605, 504, 222, 664, 707, 364, 11, 172, 490, 241, 165, 543}, {"Even", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd"}		23		Passed
+
+
+	{819, 233, 751, 206, 976}, {"Odd", "Odd", "Even", "Even", "Even"}		2		Passed
+
+
+	{247, 585, 649, 971, 865, 913, 75, 545, 713, 547, 679, 769, 263, 519, 985, 289, 945, 865, 541, 245, 509, 319, 871, 601, 323, 133, 473, 153, 87, 571, 763, 901, 103, 423, 527, 601, 969, 15, 565, 29, 543, 347, 89, 943, 637, 409, 463, 49, 682}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{61, 222, 759, 955, 889, 147, 691, 950, 844}, {"Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{68, 537, 784, 36, 227, 186, 39, 854, 630, 225, 749, 924, 360, 258, 767, 945, 956, 319, 727, 412, 26, 356, 2, 550, 497, 585, 516, 965, 343, 76, 914, 143, 197, 949, 73, 427, 607, 174, 430, 405, 706, 627, 813, 376, 94, 566, 37, 737, 142}, {"Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{653, 937, 839, 483, 356, 16, 132}, {"Odd", "Odd", "Even", "Odd", "Even", "Even", "Even"}		2		Passed
+
+
+	{638, 187, 691, 651, 663, 635, 894, 354, 417, 453, 9, 263}, {"Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Odd"}		-1		Passed
+
+
+	{635, 303, 257, 149}, {"Odd", "Even", "Odd", "Odd"}		1		Passed
+
+
+	{29, 201, 81, 319, 859, 51, 155, 361, 265, 904}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd"}		9		Passed
+
+
+	{562, 490, 949}, {"Even", "Even", "Odd"}		-1		Passed
+
+
+	{403, 924, 832, 370, 879, 260, 9, 620, 972, 4, 946, 782, 505, 393, 686, 314, 699, 590, 723, 939, 38}, {"Odd", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{962, 960, 494, 516, 270, 938, 870, 59, 701}, {"Even", "Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd"}		-1		Passed
+
+
+	{216, 556, 816, 331, 40, 213, 289, 83, 955, 86, 711, 485, 775, 381, 816, 952, 542, 116}, {"Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even"}		-1		Passed
+
+
+	{73, 789, 977, 133, 957, 689, 113, 9, 941, 791, 723, 363, 29, 185, 779, 201, 71, 885, 975, 71, 333, 867, 153, 295, 169, 825, 677, 629, 651, 599, 309, 693, 687, 81, 117, 249, 667, 529, 679, 865, 421, 405, 827, 817, 517, 727, 667, 87, 682}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{21, 663, 721, 65, 309, 415, 903, 873, 125, 941, 745, 763, 423, 531, 807, 269, 319, 603, 907, 307, 481, 13, 137, 631, 115, 809, 85, 557, 291, 293, 997, 153, 55, 345, 709, 249, 492}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even"}		33		Passed
+
+
+	{959, 723, 705, 996, 53, 270, 480, 239, 424, 919, 867, 660, 499, 487, 197, 463, 634, 159, 23, 147, 393, 38, 926, 648, 459, 603, 808, 99, 831, 293, 601, 279, 800, 353, 449, 883, 541, 316, 576, 763}, {"Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Odd"}		-1		Passed
+
+
+	{419, 898, 829, 852, 817, 231, 450, 926, 659, 230, 521, 941, 561, 148, 163, 656, 676, 793, 362, 755, 399, 147, 715, 947, 189, 570, 639, 664, 76, 516, 522, 476, 616, 529, 235, 571, 906, 465, 558, 963, 162, 525, 550, 470, 331, 924, 351, 334}, {"Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even"}		-1		Passed
+
+
+	{337, 338, 279, 394, 637, 715, 165, 592, 950, 136, 506, 338, 5, 338, 624, 665, 971, 609, 569, 282, 86, 153, 374, 653, 195, 877, 827, 397, 573, 250, 641, 175, 820, 944, 612, 942, 290, 420}, {"Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Even"}		-1		Passed
+
+
+	{451, 615, 609, 65, 167, 893, 75, 509, 301, 695, 573, 589, 161, 173, 969, 359, 32}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{423, 775, 780, 911, 553, 183, 392, 496, 765, 875, 365}, {"Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Odd"}		5		Passed
+
+
+	{973, 822, 123, 548, 578, 790, 606, 196, 595, 951, 344, 755, 482, 13, 673, 440, 429, 913, 763, 968, 409, 416, 909, 224, 760}, {"Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{319, 959, 945, 807, 167, 701, 367, 693, 787, 533, 557, 975, 447, 21, 283, 223, 331, 377, 583, 949, 723, 983, 19, 777, 221, 111, 183, 857, 491, 925, 325, 487, 677, 969, 643, 535, 678}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{197, 783, 829, 727, 427, 871, 697, 613, 703, 27, 409, 545, 509, 185, 239, 237, 443, 313, 501, 851, 129, 111, 651, 149, 193, 455, 869, 681, 465, 267, 713, 793, 635, 473, 973, 831, 901, 443, 177, 877, 771, 703}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd"}		0		Passed
+
+
+	{238, 24, 180, 596, 170, 328, 43, 311, 183, 59, 927, 488, 671, 529, 652, 259, 214, 861, 784, 287, 743, 611, 473, 129}, {"Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd"}		-1		Passed
+
+
+	{868, 866, 939, 882}, {"Even", "Even", "Odd", "Even"}		-1		Passed
+
+
+	{599, 459, 662, 64, 757, 808, 279, 490, 436, 366, 76, 587, 387, 834, 361}, {"Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd"}		-1		Passed
+
+
+	{493, 433, 841, 767, 735, 811, 599, 837, 893, 983, 329, 353, 369, 245, 795, 609, 253, 647, 433, 535, 209, 265, 497, 243, 649, 15, 841, 189, 101}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd"}		0		Passed
+
+
+	{852, 475, 634, 892, 201, 855, 991, 698, 920, 781, 579, 932, 545, 341, 488, 900, 526, 484, 539, 493, 194, 253, 12, 561}, {"Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd"}		-1		Passed
+
+
+	{785, 529, 541, 805, 791, 393, 211, 549, 579, 979, 971, 277, 73, 193, 621, 497, 827, 277, 791, 583, 579, 159, 419, 489, 159, 449, 925, 73, 381, 9, 967, 209, 477, 503, 371, 607, 197, 75, 723, 611, 19, 761, 57, 891, 163, 683, 717, 933}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd"}		10		Passed
+
+
+	{863, 397, 461, 616, 905, 600, 137, 681, 199, 33, 388, 585, 241, 518}, {"Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{883, 250, 524, 759, 106, 622, 96, 297, 917, 679, 179, 580, 59, 578, 751, 8, 730, 82, 996, 679, 677, 754, 900, 785, 566, 94, 609, 173, 244, 930, 515, 169, 56, 192, 974, 923, 749, 652, 987, 145, 447, 578}, {"Odd", "Even", "Even", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{792, 470, 913, 147, 694, 92, 816, 950, 858, 641, 53, 237, 552, 488, 227, 163, 956, 184, 395, 181, 98, 66, 66, 514, 262}, {"Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even"}		-1		Passed
+
+
+	{141, 611, 947, 445, 171, 975, 489, 751, 149, 333, 865, 215, 283, 7, 433, 897, 367, 523, 883, 811, 641, 231, 187, 705, 479, 321, 539, 351, 448}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{760, 190, 423, 667, 487, 456, 29, 615, 861, 254, 778, 349, 504, 862, 432, 83, 456, 198, 107, 753, 822, 297, 282, 22, 456, 948, 125}, {"Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd"}		9		Passed
+
+
+	{860, 999, 75, 254, 923, 636, 644, 889, 154, 233, 748, 681, 927, 679, 451, 802, 962, 200, 856, 364, 717, 574, 562, 246, 474}, {"Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Even"}		-1		Passed
+
+
+	{182, 288, 700, 111}, {"Even", "Even", "Even", "Odd"}		-1		Passed
+
+
+	{982, 113, 477, 382, 248, 891, 672, 806, 373, 33, 990, 321, 166, 432, 659, 294, 207, 579, 949, 207, 172, 167, 397, 698, 21, 695, 530, 789, 110, 985}, {"Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd"}		-1		Passed
+
+
+	{16, 627, 685, 169, 907, 929, 98, 119, 391, 200, 786, 487, 200, 421, 711, 272, 814, 416}, {"Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{332, 268, 388, 445, 187, 508, 361, 828, 75, 432, 153, 272, 269, 694, 886, 338, 312, 605, 678, 407, 769, 23, 414, 1, 543, 538, 39, 389, 356, 290, 648}, {"Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{762, 494, 218, 502, 483, 448, 666, 754, 105, 85, 96, 526, 222, 965, 782, 873, 107, 657, 344, 594, 81, 81, 869, 412, 714, 969, 252, 217, 80, 769, 41, 532, 934, 780, 664, 260, 654, 937}, {"Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Even", "Odd"}		18		Passed
+
+
+	{835, 681, 977, 455, 725, 71, 809, 559, 157, 603, 833, 905, 441, 375, 563, 885, 963, 81, 837, 797, 203}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd"}		0		Passed
+
+
+	{77, 59, 494, 741, 547, 475, 774, 98, 881, 336, 73, 401, 708, 956, 667, 142, 589, 482, 169, 316, 397, 226, 10, 13, 137, 456, 763, 44, 743, 22, 923, 513, 249, 19, 369, 718, 715, 651, 291, 336, 760}, {"Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{980, 200, 106, 792, 662, 682, 653, 754, 34, 30, 988, 43, 254, 84, 421, 815, 719, 245, 64, 230, 653, 865, 770, 471, 6, 48, 595, 488, 327, 277, 324, 541, 680, 991, 589, 711, 272, 946, 222, 471, 184}, {"Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Even"}		17		Passed
+
+
+	{7, 263, 135, 487, 197, 33, 89, 935, 779, 993, 791, 963, 965, 1, 105, 807, 567, 669, 135, 671, 457, 999, 545, 597, 219, 839, 845, 373, 563, 29}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd"}		23		Passed
+
+
+	{605, 602, 228, 198, 693, 772, 364, 302, 364, 722, 566, 422, 446, 611, 496, 742, 23, 813, 152, 16, 56, 394, 739, 280, 883, 609, 655, 823, 708, 246, 339, 145, 291, 340, 155, 605, 624, 226, 79, 725, 982}, {"Odd", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{131, 847, 988, 446, 806, 617, 751, 490, 339, 964, 136, 698, 210, 631, 225, 909, 738, 475, 921, 373, 294, 856, 735, 562, 57, 607, 185, 76, 383, 120, 742, 433, 685, 780, 280, 284, 668, 837, 126, 119, 738, 29, 120, 578, 738}, {"Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{61, 902, 794, 433, 137, 581, 876, 908, 185, 75, 720, 791, 477, 42, 352, 330, 291, 975, 73, 592, 190, 788, 491, 240, 894, 54, 64, 682, 904, 6, 177, 480, 696, 140, 469, 999, 84, 640, 516, 622, 994, 827, 723, 839, 829, 582}, {"Odd", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Even"}		-1		Passed
+
+
+	{24, 944, 835, 244, 350, 703, 708, 503, 142, 688, 347, 892, 638, 414, 401, 817, 691, 163, 936, 127, 411, 878, 383, 261, 190, 706, 875, 664, 723, 196, 567, 361, 39, 589, 812, 246, 468, 426, 868, 190, 543, 64}, {"Even", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Even", "Odd", "Even"}		-1		Passed
+
+
+	{100, 24, 227, 204, 49, 52, 571, 637, 459, 968, 457, 406, 532, 963, 820, 976, 557, 532}, {"Even", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Even", "Odd", "Even"}		-1		Passed
+
+
+	{803, 389, 915, 451, 319, 273, 791, 383, 133, 775, 643, 569, 301, 955, 79, 585, 257, 333, 893, 491, 103, 751, 233, 723, 271, 611, 991, 339, 641, 259, 47, 353, 659, 479, 303, 683, 991, 3, 569, 423, 895, 136}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		26		Passed
+
+
+	{700, 189, 179, 43, 358, 942, 848, 470, 346, 381, 914, 965, 711, 62, 386, 74, 505, 463, 704, 103, 70, 155, 530, 553, 75, 150, 731, 245, 845, 50, 119, 66, 364, 553, 774, 471, 732, 748, 512, 870, 399, 499, 104, 353, 680}, {"Even", "Odd", "Odd", "Odd", "Even", "Even", "Even", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd", "Even", "Odd", "Even", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even"}		-1		Passed
+
+
+	{563, 835, 851, 23, 241, 911, 493, 651, 581, 477, 617, 877, 179, 221, 615, 349, 799, 179, 635, 857, 883, 663, 903, 263, 421, 771, 23, 273, 841, 687, 889, 917, 717, 893, 699, 267, 749, 65, 390}, {"Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Odd", "Even"}		13		Passed
+
+
+	{131, 29, 631, 590}, {"Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{865, 408, 296, 429, 682, 491, 611, 178, 72, 237, 460, 644, 841, 634, 38, 894, 631, 275, 994, 783, 204, 462, 291}, {"Odd", "Even", "Even", "Odd", "Even", "Odd", "Odd", "Even", "Even", "Odd", "Even", "Even", "Odd", "Even", "Even", "Even", "Odd", "Odd", "Even", "Odd", "Even", "Even", "Odd"}		-1		Passed
+
+
+	{424, 891}, {"Even", "Odd"}		-1		Passed
+
+
+	{3, 2, 2}, {"Odd", "Odd", "Even"}		1		Passed
+
+
+	{2}, {"Even"}		0		Passed
+
+
+	{1, 2, 4}, {"Odd", "Even", "Even"}		-1		Passed
+
+
+	{1, 2, 9}, {"Odd", "Even", "Odd"}		-1		Passed
+
+
+	{1, 3, 2, 2, 2}, {"Odd", "Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{3, 4, 4}, {"Odd", "Even", "Even"}		-1		Passed
+
+
+	{3, 5, 6, 7}, {"Odd", "Odd", "Even", "Odd"}		-1		Passed
+
+
+	{2, 3, 5}, {"Even", "Odd", "Odd"}		-1		Passed
+
+
+	{1}, {"Odd"}		0		Passed
+
+
+	{1, 2, 4, 6}, {"Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{1, 2, 1}, {"Odd", "Even", "Odd"}		-1		Passed
+
+
+	{3, 4, 5}, {"Odd", "Even", "Odd"}		-1		Passed
+
+
+	{1, 3, 5, 10}, {"Odd", "Odd", "Odd", "Even"}		0		Passed
+
+
+	{1, 2, 3}, {"Odd", "Even", "Odd"}		-1		Passed
+
+
+	{1, 4, 6, 10}, {"Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{108}, {"Even"}		0		Passed
+
+
+	{2, 3, 5, 10}, {"Even", "Odd", "Even", "Even"}		2		Passed
+
+
+	{2, 1, 3}, {"Even", "Odd", "Even"}		2		Passed
+
+
+	{2, 3, 2}, {"Even", "Odd", "Odd"}		2		Passed
+
+
+	{5, 6, 5}, {"Odd", "Even", "Odd"}		-1		Passed
+
+
+	{3, 2}, {"Odd", "Odd"}		1		Passed
+
+
+	{1, 2, 2}, {"Odd", "Even", "Even"}		-1		Passed
+
+
+	{4}, {"Even"}		0		Passed
+
+
+	{3, 2, 3}, {"Odd", "Even", "Odd"}		-1		Passed
+
+
+	{1, 1, 1}, {"Odd", "Odd", "Odd"}		0		Passed
+
+
+	{7, 7, 6, 6}, {"Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{88}, {"Even"}		0		Passed
+
+
+	{2, 1, 2}, {"Even", "Odd", "Odd"}		2		Passed
+
+
+	{1, 3, 2, 7}, {"Odd", "Odd", "Even", "Odd"}		-1		Passed
+
+
+	{5, 2, 3}, {"Odd", "Even", "Odd"}		-1		Passed
+
+
+	{2, 1, 1}, {"Even", "Odd", "Even"}		2		Passed
+
+
+	{3, 2, 2}, {"Odd", "Even", "Even"}		-1		Passed
+
+
+	{2, 3}, {"Even", "Odd"}		-1		Passed
+
+
+	{1, 2}, {"Odd", "Odd"}		1		Passed
+
+
+	{3, 4, 4, 4}, {"Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{1, 2, 1, 2}, {"Odd", "Even", "Odd", "Even"}		-1		Passed
+
+
+	{1, 1, 10, 10}, {"Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{106}, {"Even"}		0		Passed
+
+
+	{3, 2, 3, 4}, {"Odd", "Even", "Odd", "Odd"}		3		Passed
+
+
+	{1, 2, 2, 2}, {"Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{42}, {"Even"}		0		Passed
+
+
+	{1, 3, 6, 10}, {"Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{1, 4, 8}, {"Odd", "Even", "Even"}		-1		Passed
+
+
+	{2, 3, 4}, {"Even", "Odd", "Odd"}		2		Passed
+
+
+	{2, 3, 6}, {"Even", "Odd", "Odd"}		2		Passed
+
+
+	{1, 2, 4, 4}, {"Odd", "Even", "Even", "Even"}		-1		Passed
+
+
+	{1, 3, 5, 10, 12}, {"Odd", "Odd", "Odd", "Even", "Even"}		-1		Passed
+
+
+	{108, 109, 110}, {"Even", "Odd", "Odd"}		2		Passed
+
+
