@@ -1,0 +1,201 @@
+	10, 15, 35		"possible"		Passed
+
+
+	1, 1, 2		"impossible"		Passed
+
+
+	4, 6, 8		"impossible"		Passed
+
+
+	18, 18, 18		"possible"		Passed
+
+
+	225, 500, 475		"possible"		Passed
+
+
+	471, 471, 471		"possible"		Passed
+
+
+	1, 4, 1		"possible"		Passed
+
+
+	3, 1, 2		"possible"		Passed
+
+
+	1, 7, 4		"possible"		Passed
+
+
+	3, 7, 2		"possible"		Passed
+
+
+	6, 3, 9		"possible"		Passed
+
+
+	2, 11, 5		"impossible"		Passed
+
+
+	25, 6, 17		"possible"		Passed
+
+
+	34, 11, 3		"possible"		Passed
+
+
+	11, 33, 22		"possible"		Passed
+
+
+	53, 12, 1		"impossible"		Passed
+
+
+	76, 7, 7		"impossible"		Passed
+
+
+	30, 45, 15		"possible"		Passed
+
+
+	261, 453, 438		"possible"		Passed
+
+
+	280, 461, 411		"impossible"		Passed
+
+
+	427, 448, 409		"impossible"		Passed
+
+
+	283, 433, 208		"impossible"		Passed
+
+
+	462, 77, 385		"possible"		Passed
+
+
+	480, 496, 224		"impossible"		Passed
+
+
+	275, 450, 475		"possible"		Passed
+
+
+	144, 445, 203		"impossible"		Passed
+
+
+	429, 231, 132		"possible"		Passed
+
+
+	492, 479, 433		"impossible"		Passed
+
+
+	245, 334, 400		"impossible"		Passed
+
+
+	209, 406, 477		"impossible"		Passed
+
+
+	5, 7, 9		"impossible"		Passed
+
+
+	1, 1, 4		"possible"		Passed
+
+
+	72, 36, 36		"impossible"		Passed
+
+
+	3, 5, 13		"impossible"		Passed
+
+
+	1, 2, 9		"possible"		Passed
+
+
+	1, 1, 13		"impossible"		Passed
+
+
+	6, 6, 9		"impossible"		Passed
+
+
+	1, 2, 3		"possible"		Passed
+
+
+	1, 2, 6		"impossible"		Passed
+
+
+	3, 6, 9		"possible"		Passed
+
+
+	2, 6, 10		"impossible"		Passed
+
+
+	500, 500, 200		"possible"		Passed
+
+
+	2, 4, 6		"possible"		Passed
+
+
+	12, 24, 36		"possible"		Passed
+
+
+	6, 7, 10		"impossible"		Passed
+
+
+	1, 5, 3		"impossible"		Passed
+
+
+	2, 8, 8		"impossible"		Passed
+
+
+	124, 68, 136		"impossible"		Passed
+
+
+	8, 6, 4		"impossible"		Passed
+
+
+	2, 2, 5		"impossible"		Passed
+
+
+	10, 20, 30		"possible"		Passed
+
+
+	1, 16, 31		"possible"		Passed
+
+
+	1, 1, 7		"impossible"		Passed
+
+
+	2, 2, 500		"impossible"		Passed
+
+
+	8, 2, 8		"impossible"		Passed
+
+
+	24, 12, 18		"impossible"		Passed
+
+
+	2, 2, 8		"possible"		Passed
+
+
+	3, 7, 8		"impossible"		Passed
+
+
+	1, 2, 15		"impossible"		Passed
+
+
+	190, 354, 44		"impossible"		Passed
+
+
+	3, 3, 3		"possible"		Passed
+
+
+	301, 1, 1		"impossible"		Passed
+
+
+	1, 50, 99		"impossible"		Passed
+
+
+	1, 1, 1		"possible"		Passed
+
+
+	5, 9, 10		"possible"		Passed
+
+
+	5, 5, 20		"possible"		Passed
+
+
+	3, 3, 6		"impossible"		Passed
+
+
