@@ -1,6 +1,6 @@
 package com.alon.top.div2.level2;
 
-import com.alon.top.div2.InterfaceTopTest;
+import com.alon.top.InterfaceTopTest;
 import com.alon.top.div2.TopUtil;
 
 import java.util.HashSet;

@@ -1,8 +1,11 @@
 package com.alon.top.div2;
 
+import com.alon.top.InterfaceTopTest;
+
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.LineNumberReader;
+import java.util.Arrays;
 
 public class TopUtil {
     private InterfaceTopTest testClass;
@@ -60,6 +63,12 @@ public class TopUtil {
     public void assertEquals(int expected, int actual) throws Exception {
         if (expected != actual) {
             throw new Exception("expected " + expected + " actual " + actual);
+        }
+    }
+
+    public void assertEquals(int[] expected, int[] actual) throws Exception {
+        if (Arrays.equals(expected, actual)) {
+            throw new Exception("expected " + Arrays.toString(expected) + " actual " + Arrays.toString(actual));
         }
     }
 }
