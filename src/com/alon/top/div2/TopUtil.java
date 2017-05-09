@@ -37,8 +37,7 @@ public class TopUtil {
 
     public static void print(Object o) {
         System.out.println(o);
-        System.out.flush();
-        System.err.flush();
+        flush();
     }
 
     public int[] getInts(String s) {
@@ -61,12 +60,26 @@ public class TopUtil {
     }
 
     public void assertEquals(int expected, int actual) throws Exception {
+        flush();
         if (expected != actual) {
             throw new Exception("expected " + expected + " actual " + actual);
         }
     }
 
+    public void assertEquals(String expected, String actual) throws Exception {
+        flush();
+        if (!expected.equals(actual)) {
+            throw new Exception("expected " + expected + " actual " + actual);
+        }
+    }
+
+    private static void flush() {
+        System.out.flush();
+        System.err.flush();
+    }
+
     public void assertEquals(int[] expected, int[] actual) throws Exception {
+        flush();
         if (Arrays.equals(expected, actual)) {
             throw new Exception("expected " + Arrays.toString(expected) + " actual " + Arrays.toString(actual));
         }
