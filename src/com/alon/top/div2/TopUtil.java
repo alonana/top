@@ -66,6 +66,13 @@ public class TopUtil {
         }
     }
 
+    public void assertEquals(double expected, double actual) throws Exception {
+        flush();
+        if (expected - actual>0.0001) {
+            throw new Exception("expected " + expected + " actual " + actual);
+        }
+    }
+
     public void assertEquals(String expected, String actual) throws Exception {
         flush();
         if (!expected.equals(actual)) {
