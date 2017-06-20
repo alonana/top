@@ -6,6 +6,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.LineNumberReader;
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.LinkedList;
 
 public class TopUtil {
     private InterfaceTopTest testClass;
@@ -35,7 +37,7 @@ public class TopUtil {
         }
     }
 
-    public static void print(Object o) {
+    private static void print(Object o) {
         System.out.println(o);
         flush();
     }
@@ -43,6 +45,9 @@ public class TopUtil {
     public int[] getInts(String s) {
         s = s.replace(" ", "");
         String numbers[] = s.split(",");
+        if (numbers.length == 1 && numbers[0].isEmpty()) {
+            return new int[]{};
+        }
         int[] ints = new int[numbers.length];
         for (int i = 0; i < numbers.length; i++) {
             ints[i] = Integer.parseInt(numbers[i]);
@@ -68,7 +73,7 @@ public class TopUtil {
 
     public void assertEquals(double expected, double actual) throws Exception {
         flush();
-        if (expected - actual>0.0001) {
+        if (expected - actual > 0.0001) {
             throw new Exception("expected " + expected + " actual " + actual);
         }
     }
@@ -87,8 +92,28 @@ public class TopUtil {
 
     public void assertEquals(int[] expected, int[] actual) throws Exception {
         flush();
-        if (Arrays.equals(expected, actual)) {
+        if (!Arrays.equals(expected, actual)) {
             throw new Exception("expected " + Arrays.toString(expected) + " actual " + Arrays.toString(actual));
         }
+    }
+
+    public void assertEqualsPairs(int[] expected, int[] actual) throws Exception {
+        flush();
+
+        LinkedList<String> expectedPairs = createPairs(expected);
+        LinkedList<String> actualPairs = createPairs(actual);
+
+        if (!expectedPairs.equals(actualPairs)) {
+            throw new Exception("expected " + expectedPairs + " actual " + actualPairs);
+        }
+    }
+
+    private LinkedList<String> createPairs(int[] ints) {
+        LinkedList<String> pairs = new LinkedList<>();
+        for (int i = 0; i < ints.length; i++) {
+            pairs.add(ints[i] + "-" + ints[++i]);
+        }
+        pairs.sort(Comparator.naturalOrder());
+        return pairs;
     }
 }
