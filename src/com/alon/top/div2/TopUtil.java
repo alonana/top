@@ -32,7 +32,7 @@ public class TopUtil {
             if (line.isEmpty()) {
                 continue;
             }
-            print("checking line " + line);
+            print("checking line " + reader.getLineNumber() + ":" + line);
             testClass.checkLine(line, this);
         }
     }
