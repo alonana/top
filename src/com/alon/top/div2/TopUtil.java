@@ -73,7 +73,7 @@ public class TopUtil {
 
     public void assertEquals(double expected, double actual) throws Exception {
         flush();
-        if (expected - actual > 0.0001) {
+        if (Math.abs(expected - actual) > 0.0001) {
             throw new Exception("expected " + expected + " actual " + actual);
         }
     }
