@@ -1,0 +1,168 @@
+	"topc0der", "topcoder"		"Possible"		Passed
+
+
+	"topcoder", "codertop"		"Impossible"		Passed
+
+
+	"o0ol1lnmn", "oo0ll1nnm"		"Possible"		Passed
+
+
+	"c01unn", "column"		"Possible"		Passed
+
+
+	"0", "l"		"Impossible"		Passed
+
+
+	"81vdiu0n50mxlxopqn8olxbqromvkral21nbi", "llv0i00p50nx1xs1qn1o13bqaomv0r152lmgi"		"Impossible"		Passed
+
+
+	"nl91gn9lnnqpyo09ml1h140onnomoonr0ow24qfw0muf", "nl9lgn91nmqpy009ml1hl4o0nm0mo0nro0w24qfwonuf"		"Possible"		Passed
+
+
+	"0oml0mllolnmlmmolnm10m1m11lmn0om110m0llmn0lm0om", "w0lmnmlljlno18md1mnl0n1nor1mmo0mhl1n01unq0ln001"		"Impossible"		Passed
+
+
+	"1l1no110n1ln1nmo11nlmnol1omln0nm1llo0l1omonmmnnnmm", "1l1m05jo7ll0mnm01l3hnmolllzpmonml110n1lomommmmnncm"		"Impossible"		Passed
+
+
+	"nlm01m0llnnnno0o1llnnn1m0nlnnnnmmmm0o100o1lm1nlm", "nnn01m0kln11nootll1g6n61omn1lommmmnoo74mo61ml000"		"Impossible"		Passed
+
+
+	"no01o1omlloonl1ol0omo1olnn00l0n0mnnmooolo0o0n00", "nxo6elnn11omni8011lnmo4llfqt1onogunm0onm0o00moo"		"Impossible"		Passed
+
+
+	"loo0on0m0mnoomll1mm10n011m0l0nonlnl0mlmll01ooooo11", "mo0s0m0l1nn600n6131l0n008jc1qn0z1mloml811xwnq0orl1"		"Impossible"		Passed
+
+
+	"l01o010m01nlo0oo1om1mlnoo0nm1m0non1mno0n110n111n", "10l0ol0n01mlo00o10n1n1n00onmlnomon1nmoon110ml1lm"		"Possible"		Passed
+
+
+	"o0nln0nnl1onnoll0l1lnm001olm1o0nmlonn1no0mol1n1", "0onln0nmll0mm011o1l1nm00lo1nlo0nn10mmlm00mol1nl"		"Possible"		Passed
+
+
+	"m1ollonl0oomlolm01lo0l010olmlnoo0noo00nmnmlnno", "nnl001n01nlm01m0ooono1o00m1mnm0lmol1nmml11llon"		"Impossible"		Passed
+
+
+	"lm0n0onnoomoo0mlo11mnmmnlnol10l0o10n010mo0ooml", "1m0m0omnoonoo0n1011nmnnnlnol10loo10mo10moo00ml"		"Possible"		Passed
+
+
+	"m00ool10mol1noll01llm00mnno00mln1lnm11nm1m00o1o0", "o0nlo10nl00mlooon0lm0lonn0l1011l0onoom00m01o1ln0"		"Impossible"		Passed
+
+
+	"0m01noonlllo1ln1nn00ll10mml00nm10000mmnlnl1oo1omnn", "kzzk4d3e84aev2cxpvyft734vpk5vtjzf42spiqzc6eqzgprvf"		"Impossible"		Passed
+
+
+	"101o0l1ml11ll01onml00omm0mmnommlll1nl0llm10lo1l1ln", "l0100llnlll1l010nmloo0nn0mmm0mn11llm10l1m10l01ll1m"		"Possible"		Passed
+
+
+	"0m00m1nmm1mlnmm0mllmmmm00l10m1nl1olnm01om0mm01lnom", "css5u35bds7wsskwg4apkupfeg9c3tj56asw8i8tzr4zfdr9eq"		"Impossible"		Passed
+
+
+	"0n1nnl0mnnm0n1n0olo1noomnnm0n00lo1101n0mllmmmnno", "693pccx5yx6b888sqf422us523kzj6dve7cehfbxiy95zvsb"		"Impossible"		Passed
+
+
+	"ml10nlo1nmnnl1llmnmmomoo1molm10lmn11loo0lo00ol11", "3yeh2vgjctfhcf92qzcpejqv5uybcxetv8wcarfesiqhh5vj"		"Impossible"		Passed
+
+
+	"m01n1m1m11nno1n1mon0n0m0lomonln11nnnllmo0nlmnll", "n01mlm1nl1nn0lm1momom0m0l0m0m1m11mmn1ln0onlmn1l"		"Possible"		Passed
+
+
+	"nmo0mmom1oolml100mm1lnn1nn11mono11olomlmmn1ln0", "mm00nn0m1o01nl10onn11mmlmnllnon011ol0nlnmm11m0"		"Possible"		Passed
+
+
+	"1olm1011nloln01010l1nl110nno1ln0nnnn1nm00lm0l01", "lolnlolln1olmo1ololln1ll0nmo1lmonmnm1nnoo1n0l0l"		"Possible"		Passed
+
+
+	"1nl10onn0ln1non0l1nnoon1001lomon1o1nnomlmlmolo0n", "7s7cz9ciqrvd8bjh3kbbkuapvu7cdzprtcaa2rcf7ee2twit"		"Impossible"		Passed
+
+
+	"nm0mm0010nl00nn0n1l0n01olonnlm10o1ml01nmllnnll1", "mn0nm00lom100mn0nllono10l0mnlnloolm1o1mml1nn1ll"		"Possible"		Passed
+
+
+	"5kh6lpcll90p00nysjlqmloroun0ggbzlm0mfablljm0n81x9", "xveaicdidbedgafjtihsepjv2zguct3k6etk8dthgwkie5rcg"		"Impossible"		Passed
+
+
+	"0lmnp06ooun10mqmpl6k8mejj1bxno6cmbmnmzo11om0o68", "jriqg8zs439vr4t726zc64rwy5z4t7jwh8k67zgfhf5zc22"		"Impossible"		Passed
+
+
+	"21n5mymnlwto2mmx6y0ju0jy0twm4091lwkn6w10m1ow4h", "2ln5nymn1wto2mmx6y0ju0jyotwn40911wkm6wl0nlow4h"		"Possible"		Passed
+
+
+	"sjmh67qppm0hf2e9n9avnis03h42yllxx11su11vf4n048o", "sjmh67qppm0hf2e9m9avmis03h42y11xx11su1lvf4mo480"		"Possible"		Passed
+
+
+	"u26jn0n5m1029n2lk10b9vg908obud1ol8x9l8oiongrnv", "iwvsk9p46ggc9xv2ztsv86rgp75ghc64xze8kbwfasurvh"		"Impossible"		Passed
+
+
+	"zum5nb17509mj2qmeawl8r3v4nhwmhn40w2ldig07motng12l", "n0nlo1mnnnn0monl10m1o1mllml10n0mnnnlmlnml0mlnl1om"		"Impossible"		Passed
+
+
+	"e5fom2m1ojo9qo98lnlo1be3amn7o5x1kulmuduxown18g892", "e5f0m2n1oj09q0981m10lbe3amn7o5x1kulmudux0wn18g892"		"Possible"		Passed
+
+
+	"i6o1md2j8ks9807ympml0bfnm3b120w11qlgqooj00zli1tuk", "nlmoomlm00on1mno000n1l1lll01m1om01o1omm10lon1mlnn"		"Impossible"		Passed
+
+
+	"rnnm19yo0byug1qnomn6n0l1ohqmlaf5do0remnqkmb11lld", "rmnnl9y0obyug1qm0mn6nol10hqn1af5d00remnqknb11l1d"		"Possible"		Passed
+
+
+	"ml57o6hm0s6oob0ml01lmm1o6lvb1lrj408i1p1lttmhor0nl", "01l0nl11000onn1ln1o1ln1m0llmml1n1o0mm1ol0m1nolmnm"		"Impossible"		Passed
+
+
+	"012obdmli2omo1tvi1gz4mn97oel3pw04ufam0ylpl2lm4c4", "o12obdnli2omoltvi1gz4mn97oel3pwo4ufan0y1p121m4c4"		"Possible"		Passed
+
+
+	"18n6mddrvl1n001aow00dln0yyp01m10k06volfcl2kom3", "l8m6mddrvl1no0la0wood1noyyp01m10k06volfc12k0n3"		"Possible"		Passed
+
+
+	"w6lm0norlkn0owa0zn1g0nm03oh10sh92o13pognq1ho1io4", "w61m0mor1kno0waozn1g0mn030h10sh92o13p0gmqlho1io4"		"Possible"		Passed
+
+
+	"ohns2fo1gobom80500n8js9ovonnbm7ml0oi0mnnroxnli", "ohms2f0lg0b0m8o500m8js90v0mmbn7n100iommmr0xmli"		"Possible"		Passed
+
+
+	"l0tiln08m1n0nsblj9g1lm0ba0qooo177lo0flq0k1fq0gl", "l11i10h80olonm11j9gllnnvafq0w01kml0031qoklf40g1"		"Impossible"		Passed
+
+
+	"uk6nen0ul2n8ko0iu57nlrwi1zyii3g84n0nm0h8m18uoa1w", "uk6menou12n8ko0iu57mlrwilzyii3g84monm0h8n18u0alw"		"Possible"		Passed
+
+
+	"nmzm8n4a0nomn014zoh0cnnm1rammmmomvgy00h618io11u", "nnzn8m4a0m0mno14z0h0cmmm1ranmmnomvgyooh618io1lu"		"Possible"		Passed
+
+
+	"jvlbn19rmqefg9nexo9503ej9so0n1255gp12e17lk114fmf1", "jv1bml9rnqefg9nex095o3ej9so0n1255gp12e17lk114fmfl"		"Possible"		Passed
+
+
+	"obyvt0nnmnkmndon8s2ot18m0lwmw0znlvino1ezj1kslw", "obyvtomnmnkmmd0m8s20t18nolwmw0zm1vim0lezj1kslw"		"Possible"		Passed
+
+
+	"ouo1nx6s1my5ooand0mdlmxvllocm12mm0otmsro0giu9l2", "ou01nx6slny50oand0md1nxvl10cml2nmootmsro0giu912"		"Possible"		Passed
+
+
+	"6vt00fqvhy01g0jlv73wm6106qp0160azy01ly8n040nal084", "6vt00fqvhy01g0jlv73wm6lo6qp016oazyo1ly8m040nalo84"		"Possible"		Passed
+
+
+	"siuoammkc534x1h0teyy1i8flso0a01mysn2m2nn2om1q6m", "1nn06lckcmg4llh7oeyw4p8n1vnoa018avn2m2mn20xlqnn"		"Impossible"		Passed
+
+
+	"lnomea2holue70vnmfx86mlwn2me2x16nitvnli1m461eed", "1m1heqoip1u01rlomlx8ooewr2n101bjnitvn181nz6lj00"		"Impossible"		Passed
+
+
+	"biwe1lkmtjlnndejqno60hl9on7g2o6o3htj3md13cozgr1", "bii11lkaaj1nndojfn16ih19dn3fkr603hjj3qml3j0mgr1"		"Impossible"		Passed
+
+
+	"rmy6g90m01601lnnq0whnd11u0momm61m0hz61bmljo02msno", "r1y6f90mo11rl1nnlnw8ndglu000m0nomc5llmbnaj9oonsoo"		"Impossible"		Passed
+
+
+	"o", "n"		"Impossible"		Passed
+
+
+	"abcde", "abcdf"		"Impossible"		Passed
+
+
+	"a", "z"		"Impossible"		Passed
+
+
+	"cat", "bug"		"Impossible"		Passed
+
+
