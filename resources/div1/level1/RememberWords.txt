@@ -1,0 +1,407 @@
+
+	2, 3, 7, 18		"Possible"		Passed
+
+
+	1, 1, 3, 5		"Impossible"		Passed
+
+
+	3, 5, 300, 500		"Possible"		Passed
+
+
+	100, 1, 0, 2		"Impossible"		Passed
+
+
+	1000000000, 1000000000, 1000000000, 1000000000		"Possible"		Passed
+
+
+	8, 2537, 25, 83		"Possible"		Passed
+
+
+	26662, 46, 173072, 9		"Possible"		Passed
+
+
+	353029, 4854, 7456921, 1845874		"Possible"		Passed
+
+
+	811327, 59382, 92, 8651426		"Possible"		Passed
+
+
+	3984576, 57712665, 18949, 9805118		"Possible"		Passed
+
+
+	26052, 48134, 26936548, 8		"Possible"		Passed
+
+
+	3631846, 7927, 346, 3514		"Possible"		Passed
+
+
+	15789, 66807687, 23469, 3270		"Possible"		Passed
+
+
+	585, 8393, 73, 4574100		"Possible"		Passed
+
+
+	75276, 1493191, 202, 22		"Possible"		Passed
+
+
+	225, 1523, 471, 302		"Possible"		Passed
+
+
+	24241313, 1502, 3135139, 3751		"Possible"		Passed
+
+
+	234, 6805, 0, 4710		"Possible"		Passed
+
+
+	45324, 9924, 31897, 1893		"Possible"		Passed
+
+
+	86842, 138236, 6056638, 7976243		"Possible"		Passed
+
+
+	35880, 532592, 57404715, 21415073		"Possible"		Passed
+
+
+	33348897, 981, 78695, 381972		"Possible"		Passed
+
+
+	40111456, 21502289, 758, 119522		"Possible"		Passed
+
+
+	23537198, 29962949, 2783139, 839		"Possible"		Passed
+
+
+	1924440, 2861, 5055, 9482		"Possible"		Passed
+
+
+	3477541, 8661, 6, 248		"Possible"		Passed
+
+
+	93464914, 8461, 671485, 65		"Possible"		Passed
+
+
+	898458, 78, 228, 2872		"Possible"		Passed
+
+
+	7571493, 5213, 943895, 3		"Possible"		Passed
+
+
+	57, 87643, 8, 5		"Possible"		Passed
+
+
+	75498, 680602, 181, 42		"Possible"		Passed
+
+
+	98, 56164, 9399, 7072756		"Possible"		Passed
+
+
+	8673, 6878510, 418209, 3571758		"Possible"		Passed
+
+
+
+
+	288, 558739, 1445, 81465		"Possible"		Passed
+
+
+
+
+	3204966, 3406, 660939, 638		"Possible"		Passed
+
+
+
+
+	8496, 86641, 2454, 47		"Possible"		Passed
+
+
+	8640533, 731, 1390829, 992		"Possible"		Passed
+
+
+	968944, 10, 5421, 352		"Possible"		Passed
+
+
+	216699, 5894375, 1678951, 75		"Possible"		Passed
+
+
+	33622003, 757471, 9, 44		"Possible"		Passed
+
+
+	635555, 7821772, 85496937, 558		"Possible"		Passed
+
+
+	8309, 3737415, 6637, 3037		"Possible"		Passed
+
+
+	6169, 5885, 840537, 2		"Possible"		Passed
+
+
+	48, 5804, 523, 6338		"Possible"		Passed
+
+
+	951, 6657072, 6, 5952004		"Possible"		Passed
+
+
+	24738, 75759, 65, 344		"Possible"		Passed
+
+
+	39268, 1737, 171, 7351		"Possible"		Passed
+
+
+	509399, 62582, 5065866, 56559930		"Possible"		Passed
+
+
+	512623, 3473740, 1254, 1531		"Possible"		Passed
+
+
+	8, 10720, 2, 9451835		"Possible"		Passed
+
+
+	4677, 117393, 3, 886		"Possible"		Passed
+
+
+	14437, 9909, 1256, 789		"Possible"		Passed
+
+
+	28, 76753667, 2152777, 734		"Impossible"		Passed
+
+
+	2, 12261088, 4031, 421		"Impossible"		Passed
+
+
+	7, 84166018, 962395, 990924		"Impossible"		Passed
+
+
+	41379, 159, 9370, 7362333		"Impossible"		Passed
+
+
+	6, 9153, 77, 9		"Impossible"		Passed
+
+
+	134, 62, 889206, 18463		"Impossible"		Passed
+
+
+	99, 93, 6969, 59		"Impossible"		Passed
+
+
+	52402, 1648, 85681, 50401704		"Impossible"		Passed
+
+
+	212180, 6089, 424194, 52332962		"Impossible"		Passed
+
+
+	77, 956223, 776558, 1		"Impossible"		Passed
+
+
+	910279, 92, 2550, 88651132		"Impossible"		Passed
+
+
+	7708, 6, 4946, 2633		"Impossible"		Passed
+
+
+	3037, 25, 78172445, 537		"Impossible"		Passed
+
+
+	96802, 1054, 801, 9485748		"Impossible"		Passed
+
+
+	2277, 5417, 8200350, 62		"Impossible"		Passed
+
+
+	36, 9, 516809, 5255		"Impossible"		Passed
+
+
+	775, 44, 6286, 88473		"Impossible"		Passed
+
+
+	8, 9029, 99604553, 2605253		"Impossible"		Passed
+
+
+	2, 1334, 5278650, 9018		"Impossible"		Passed
+
+
+	44685, 2774, 0, 60432979		"Impossible"		Passed
+
+
+	10, 89201717, 42841, 2656198		"Impossible"		Passed
+
+
+	4698923, 1, 3638716, 57855402		"Impossible"		Passed
+
+
+	28, 6, 94, 7651		"Impossible"		Passed
+
+
+	6, 7342093, 9566, 8		"Impossible"		Passed
+
+
+	2505, 898093, 46301244, 26		"Impossible"		Passed
+
+
+	55, 8956133, 2333036, 2144		"Impossible"		Passed
+
+
+	42188134, 8, 979484, 634069		"Impossible"		Passed
+
+
+	258, 2670535, 59868821, 3		"Impossible"		Passed
+
+
+	18813, 2, 62, 6413		"Impossible"		Passed
+
+
+	56, 8029, 463899, 6721329		"Impossible"		Passed
+
+
+	236, 89, 2, 4071699		"Impossible"		Passed
+
+
+	9, 9, 4596, 3		"Impossible"		Passed
+
+
+	10, 6179704, 8184, 88558		"Impossible"		Passed
+
+
+	2, 71459, 74889, 4639		"Impossible"		Passed
+
+
+	5, 4486, 7247, 1476		"Impossible"		Passed
+
+
+	7, 2, 75306709, 9519327		"Impossible"		Passed
+
+
+	2, 1, 9, 32518		"Impossible"		Passed
+
+
+	1209640, 6, 653, 5305		"Impossible"		Passed
+
+
+	27938545, 374, 6, 53211402		"Impossible"		Passed
+
+
+	675, 8, 57, 34321		"Impossible"		Passed
+
+
+	67, 35, 5387, 472		"Impossible"		Passed
+
+
+	49, 744342, 1931, 4		"Impossible"		Passed
+
+
+	1353, 3, 9354, 9508		"Impossible"		Passed
+
+
+	71, 2, 70, 57705		"Impossible"		Passed
+
+
+	679571, 43, 7, 233077		"Impossible"		Passed
+
+
+	1, 99, 92, 8		"Impossible"		Passed
+
+
+	29, 45, 9991, 948468		"Impossible"		Passed
+
+
+	97, 629, 17149104, 4		"Impossible"		Passed
+
+
+	997, 9091, 949279, 96899147		"Impossible"		Passed
+
+
+	91219865, 3, 89707, 740639		"Impossible"		Passed
+
+
+	3, 3, 6, 15		"Possible"		Passed
+
+
+	4, 12, 23, 34		"Possible"		Passed
+
+
+	5, 1, 2, 3		"Impossible"		Passed
+
+
+	1, 3, 0, 7		"Impossible"		Passed
+
+
+	1, 1, 1000000, 1000000		"Possible"		Passed
+
+
+	1, 1, 1000, 7		"Impossible"		Passed
+
+
+	3, 4, 11, 23		"Possible"		Passed
+
+
+	4, 1, 2, 3		"Impossible"		Passed
+
+
+	1, 1, 1000000000, 999999999		"Possible"		Passed
+
+
+	49, 6, 64, 46		"Possible"		Passed
+
+
+	5, 3, 12, 0		"Possible"		Passed
+
+
+	101, 1, 101, 50		"Impossible"		Passed
+
+
+	5, 5, 3, 3		"Possible"		Passed
+
+
+	2, 2, 4, 0		"Impossible"		Passed
+
+
+	3, 4, 11, 27		"Impossible"		Passed
+
+
+	1, 1, 999999999, 999999999		"Possible"		Passed
+
+
+	5, 1, 14, 6		"Impossible"		Passed
+
+
+	1, 1, 1, 100		"Impossible"		Passed
+
+
+	1, 1, 0, 0		"Possible"		Passed
+
+
+	31, 1, 28, 9		"Impossible"		Passed
+
+
+	2, 1, 14, 5		"Impossible"		Passed
+
+
+	89, 7, 41, 43		"Possible"		Passed
+
+
+	6, 6, 123, 140		"Possible"		Passed
+
+
+	957461902, 42533, 844159813, 990317651		"Possible"		Passed
+
+
+	3, 1, 18, 5		"Possible"		Passed
+
+
+	1, 1, 1000000000, 1000000000		"Possible"		Passed
+
+
+	10000, 10000, 50005000, 150005000		"Possible"		Passed
+
+
+	6, 5, 10, 45		"Impossible"		Passed
+
+
+	1, 1, 1000000000, 999999998		"Impossible"		Passed
+
+
+	4, 3, 47, 24		"Impossible"		Passed
+
+
+	6181, 334539678, 331080498, 42863604		"Impossible"		Passed
+		2023257, 79, 7016, 8723		"Possible"		Passed
+	4156162, 51, 8683382, 9664		"Possible"		Passed
+	5, 4153209, 51, 912		"Possible"		Passed
