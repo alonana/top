@@ -56,6 +56,9 @@ public class TopUtil {
     }
 
     public String[] getStrings(String s) {
+        if (s.isEmpty()) {
+            return new String[0];
+        }
         s = s.replace(" ", "");
         String strings[] = s.split(",");
         for (int i = 0; i < strings.length; i++) {
