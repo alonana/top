@@ -55,6 +55,19 @@ public class TopUtil {
         return ints;
     }
 
+    public long[] getLongs(String s) {
+        s = s.replace(" ", "");
+        String numbers[] = s.split(",");
+        if (numbers.length == 1 && numbers[0].isEmpty()) {
+            return new long[]{};
+        }
+        long[] longs = new long[numbers.length];
+        for (int i = 0; i < numbers.length; i++) {
+            longs[i] = Integer.parseInt(numbers[i]);
+        }
+        return longs;
+    }
+
     public String[] getStrings(String s) {
         if (s.isEmpty()) {
             return new String[0];
