@@ -87,6 +87,13 @@ public class TopUtil {
         }
     }
 
+    public void assertEquals(long expected, long actual) throws Exception {
+        flush();
+        if (expected != actual) {
+            throw new Exception("expected " + expected + " actual " + actual);
+        }
+    }
+
     public void assertEquals(double expected, double actual) throws Exception {
         flush();
         if (Math.abs(expected - actual) > 0.0001) {
