@@ -7,9 +7,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class AlphabetOrderDiv1 implements InterfaceTopTest {
-    private boolean debug = false;
-
-    private boolean[][] connection;
 
     public static void main(String[] args) throws Exception {
         new TopUtil(new AlphabetOrderDiv1()).check();
@@ -27,6 +24,10 @@ public class AlphabetOrderDiv1 implements InterfaceTopTest {
         String actual = isOrdered(words);
         util.assertEquals(expected, actual);
     }
+
+    private boolean debug = false;
+
+    private boolean[][] connection;
 
     private String isOrdered(String[] words) {
         connection = new boolean[26][26];
