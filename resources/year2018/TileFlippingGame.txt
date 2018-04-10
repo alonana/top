@@ -1,0 +1,219 @@
+	3, 3, {"bwe", "wbw", "ewb"}		2		Passed
+	3, 3, {"bbb", "eee", "www"}		1		Passed
+
+
+
+
+	4, 4, {"beww", "beww", "beww", "wewe"}		1		Passed
+
+
+	2, 8, {"ewewbbbb", "bwebewww"}		3		Passed
+
+
+	12, 6, {"bewbbe", "eebwbw", "eeebwe", "bbeeww", "eebbee", "bbwbww", "wwbwww", "eeewwe", "ebwebe", "eewewe", "eweeeb", "eeebwe"}		8		Passed
+
+
+	9, 6, {"ewbbww", "bbbbee", "weeeee", "bbeebe", "eewbwe", "weebee", "ewbeww", "wwwwbe", "bbewee"}		6		Passed
+
+
+	2, 6, {"wbebbb", "ebbebe"}		1		Passed
+
+
+	12, 11, {"eebbeebbwwb", "ewwwebbbwww", "bbbewebwbbb", "ebewweebeee", "ewbwbbewbbw", "wbeeebwbeee", "weewewewbbw", "ebwbbbeeeew", "webwebeewwb", "bbwweebbebe", "eebbbwebwbw", "beebbebwbbb"}		8		Passed
+
+
+	2, 15, {"ebbeeeeweeebbeb", "eewwbbbbbebbbwb"}		3		Passed
+
+
+	16, 16, {"wwbeeewewwebwwwe", "bwbebebbwweweebe", "wwwbeebeebewbeew", "beeeeebwweweewbe", "wwwbebeweewbeeee", "webebbebeebewbbb", "bwewbwewbwbewebe", "ebbbbewbwewebbwb", "bweebwwebbewebwb", "ebewewebbwwbeebb", "wbebeewwebwbebwe", "eeewbewbweebebwb", "bwweebebbwbeebew", "bebbewbebbwwweew", "ebewbbwbwbeewbwb", "ewebbbwebewwbbbb"}		18		Passed
+
+
+	14, 17, {"ebbebebewebbwwbwe", "wbeewbwwebewbebeb", "weweeewwwwewbwweb", "wbewbbbwbeeeewewe", "bbewwebwbeebbbbew", "webeeeeweeeebeewb", "eebwbwbbbewbbeebe", "webeeebeebewbbwee", "wbebwbeewwbwebbbb", "eebwwewwwwbwweewb", "ebweeebeewewbbbwb", "wwebweeweebwbbebw", "eeebwbwewweewbebb", "wewweewwbbweebewe"}		22		Passed
+
+
+	20, 4, {"eeeb", "weew", "ewww", "weee", "beww", "bbee", "bwwe", "ewww", "bebe", "bwew", "bweb", "eeew", "eebe", "beww", "bebe", "beew", "eeww", "wbbw", "weee", "ebwe"}		10		Passed
+
+
+	17, 19, {"ebwbbbeewbbbeeebbwe", "beeewbbbbebbwbwbwwb", "bbewwewbbewweeeeebe", "bbwbewbeeeebweewbbw", "wbbeweewwbeebwbwbeb", "ebebwewewbbeweebebw", "webewbeewbbwbwebbwe", "bbbbebweweebeeewbbe", "weweeeewbweebebwewb", "wbeeebwebbbeeewbeee", "bwebbeewebeeweeewee", "eebebeeweebebbbwbwe", "wbeeebweweebewbeeeb", "wbeebebebebbebbewee", "bbbwbbwebewbebebbeb", "wbbwebeewebbbbebbbw", "bbwbwebebwbbeebeewe"}		29		Passed
+
+
+	11, 20, {"ebewewebebweweeweebb", "bwwbebeeeeebebeeeewe", "weewewebewbebeweebee", "wweeeeewwewbbeebbwwb", "bewbebbbwbwewwwweeew", "wwebwewweebbeeewbeeb", "ebeebbbweeeeewbewbee", "wbeweebbbbweeeeebwwe", "eeeeewebewwbbwbbewbe", "eeeebwwwbewweeeebebw", "wwbewewwwebebewbewew"}		24		Passed
+
+
+	2, 15, {"wwbbeebweewweew", "wbweewweewbbeee"}		4		Passed
+
+
+	5, 18, {"eebwbbwwwbweeebwbw", "bewwbwbwebweeeeeee", "bbweebbwwweewebwww", "wbbwewwbbbbbwwwwee", "beebewbebwwewwweee"}		6		Passed
+
+
+	15, 15, {"eewbwwebweeebwe", "wwewwbbwewwweee", "eeewbwbbbwewwew", "beeeeweeeewwewe", "beewewbwwewwwwe", "wwwwwweewweweew", "bewbeebwwweebbw", "wwwbeeebwwbeebw", "eeewewweeeebweb", "ewebbeeewbebewe", "wwewbewwbwwbbew", "webwbbeeebewwbe", "ebebbwweebweebw", "ewbewweewwewbew", "ewwwwbeebebewww"}		14		Passed
+
+
+	17, 7, {"ewewbbw", "wwwwwbe", "eweewew", "wwwbwwb", "bwbeebe", "weewwew", "bwwbbwe", "eeeweee", "ewwbeee", "webeweb", "bebweww", "eewweee", "ewwbwee", "wwbbbww", "eewwwwe", "eeweeew", "bwwbbbe"}		10		Passed
+
+
+	9, 16, {"ewwwbeeewwwebbeb", "weeeebeeweweeebw", "eweewewbebebebew", "weeeebwbeeewbweb", "eewwbbebwbewwwwe", "ebweewwebbwbbeew", "bwewwewwbbbebewe", "wewwewbewbwbbebw", "eewwewbwwwbebwww"}		12		Passed
+
+
+	20, 3, {"eeb", "wbe", "ebw", "eeb", "eew", "ewe", "wee", "beb", "wbw", "wwe", "wee", "wew", "wwb", "bbb", "ebe", "wbe", "bbe", "ebw", "ewe", "bew"}		7		Passed
+
+
+	4, 20, {"wwwbwbbbweeebbwweeww", "weeweweewwewbbewwwbe", "ebeebebeeebewewewbew", "wwweeeebewebbwwwewbw"}		10		Passed
+
+
+	6, 5, {"ewwwb", "wbwwb", "eewwb", "eeeww", "bebww", "wewew"}		3		Passed
+
+
+	11, 17, {"wweebeeeeebwewwee", "wwbbwbbebbeweewee", "weewwbbwwwweeewee", "wewweeebewewbbbeb", "beebeewweeeeeebeb", "wbewewwbbbebeweww", "eebwweewwebeewwee", "ebwbweewweebeweww", "bwebwweewwewwebbb", "ewbwwwwbwbebewebe", "bwwwbwwebwbwbebwb"}		16		Passed
+
+
+	20, 5, {"eeeew", "eebeb", "eweew", "bewbe", "weebb", "ewwee", "eeeew", "bewee", "bbebb", "weweb", "bwwwe", "wbwew", "wewbe", "bbewe", "wbweb", "bweeb", "wwbbe", "bebbb", "ewebe", "eewwe"}		10		Passed
+
+
+	8, 9, {"ebeeewbew", "eweebbewb", "webbbbbbe", "beeeebbbw", "beebeebeb", "bebwwewwe", "ebwewewbe", "wbebbeebb"}		8		Passed
+
+
+	18, 8, {"weewbeee", "bweewbwb", "eebbewwe", "bbeeewbb", "wbewbweb", "ewewewee", "beeewebb", "bbbewbww", "bwwwbebe", "eweewbbb", "eebwbbbe", "eewwweew", "bwbbeeeb", "eeebebbe", "bwebewew", "wbeweeww", "wwebwewb", "ewebbeee"}		16		Passed
+
+
+	9, 4, {"wwbb", "bwbb", "bbbw", "ewbe", "ebwe", "weew", "ewew", "ebee", "bwwe"}		4		Passed
+
+
+	12, 6, {"beeebw", "eewbww", "bebwee", "bebbbe", "bewbbw", "wbwbww", "eewebb", "bebwbe", "ebebwb", "bbeeeb", "ebwbbe", "eeebeb"}		5		Passed
+
+
+	18, 7, {"ewbewbw", "wewwwbe", "bwebeeb", "wbbebbe", "bwebebe", "eweeeew", "bbewbbb", "wbbbwbw", "bwweewb", "beewbeb", "bbeebww", "webbwbb", "bebbwwb", "ebbebew", "bebbeeb", "eeebwbw", "webbwww", "bbeewwb"}		12		Passed
+
+
+	15, 14, {"ebbewwebbbbbwe", "bewewwebwebwwb", "eebbbwbebwbweb", "wbeebwwebbwbbb", "wwwbwbewebeeew", "bebebbewwwwbee", "eebbbewbbeebbb", "ewwbbbeebbebee", "bbbbbebewbbebb", "beebwbebbeeebb", "weeebwebbbbebe", "eebebebbbewbwe", "wbeebwebeeweew", "wwbwbbbbwwwwbb", "bwebweeewbbebb"}		7		Passed
+
+
+	16, 9, {"bwbewwbeb", "ebebwbbbe", "bwbwbbebb", "wbbeebwbw", "bwbbweeee", "bbwwwbeew", "bewbeebbw", "bewewbwbb", "bbbeeebeb", "wwbwwbbeb", "beewbwwbb", "bwbbebeeb", "bwbeeeeee", "ebebbwebe", "ebwewebbb", "bwebebbwb"}		9		Passed
+
+
+	9, 18, {"bbewewbbebebwebwbe", "bwewbbbewewwwbebwb", "webwwebebebbbewbww", "ebweebbbwbebbbebbw", "wbebwbbbbewbbbebbe", "wbwwbbebbbewwbeebb", "eeeebbwweeebeeeweb", "bbwebbwbewbeeeeebb", "bbwewbwbwbewbwbbee"}		15		Passed
+
+
+	14, 16, {"wwbweeweewbweewe", "eeeweeewbbeebebe", "ewbbbwbbbbbeewee", "beeebwbwweeewwee", "bwbbeeebbbeeebee", "bbwwbbebebeeeeew", "weebwebeebwbebew", "bbebbbbbebeeewbe", "bwbbwbbwebbeeebe", "bweewbeebbwbebwb", "bwwwbeeweeweeewb", "webbbweeebewbbbb", "wbbbwbbeeeeeeebb", "webeweebbebewwbe"}		17		Passed
+
+
+	12, 16, {"ebeeeewbebebwewb", "ewbwbbwebbeebbwe", "bbewebebbbeewebe", "beebwweeebwbbebb", "ebwwbewewbwebbee", "wbbbbeweeweebeww", "bbbwbbewwbebeeeb", "bwbeebebbebbbebb", "ebbwebbeeeewwbwe", "ebbeebwbeeebbebb", "bebbbwbeeweewbeb", "ewbweewbwwebeeww"}		16		Passed
+
+
+	20, 10, {"ebewbwweeb", "wwebwwbbwb", "bbweeebeew", "wwbwbwbbwe", "eewbbewbwe", "wwbebwebbb", "webwwwwweb", "wbebweeweb", "bbwwbbbeww", "ebwwbebeww", "wbewwwewwb", "bbewbbbwwb", "ebeebbebww", "wbebbbwwbe", "ebwewwwweb", "wwwbewbwbb", "eewwwbewbw", "ebewbwewew", "webbwwwebb", "bbbbewbbbe"}		7		Passed
+
+
+	8, 13, {"wbewwewewbwwb", "ewewbewwbbbew", "wwewbbbwwwbbb", "bewbwwwbbwwwb", "bebwweeewbewb", "eeewweebwewwb", "ebbeewbbwbbeb", "ebwbwwwbwewww"}		7		Passed
+
+
+	2, 13, {"bwwebwwwebbww", "bbwbbwebewweb"}		4		Passed
+
+
+	5, 4, {"wbwb", "bewb", "wbwb", "bwww", "bbbe"}		3		Passed
+
+
+	20, 18, {"bwebbwwbbwweebwwwb", "ebwbbeeeewwwwwbeeb", "bebweweebwbwwwwwew", "bwbwbwwbbwbbwweweb", "wbbwbwbwwewwbbebwe", "bewbebwbwbbbbbwwww", "ebwwbbbbewbwbbbbbb", "beewweebbbbweewwee", "bwebebeewebwwwwwew", "ebbbbwbebbbwbbwbww", "bbbwewbbwwwewbebbe", "bwbbwwwebeewbbbwew", "eebwwwewwbbbbwbbbe", "ewebwbbbwbwwbebbbe", "wwewbwbewwwwbeeewe", "bebwebwbbbbewbweew", "ewbwbbwbwbbwwbbwwb", "weewwbwbeebewewbeb", "eebbwebbbwwbwebbwb", "bbwwbbweewbeebbbww"}		9		Passed
+
+
+	20, 16, {"ebbwbbwbbbeewwww", "wbbbwwwwbwbwbebw", "bwewbwbbebbebbwb", "wewwbwwbewebbbew", "bbwbwebwbebwweeb", "ewwwbwwbbwweewbb", "wwbbweewwbwebebw", "ebeebwewweebwbww", "ebebebebbwbwbebw", "bbebwwwbbbwbbbew", "bbbeewbebebwebbb", "bwwwbbbwbbbebbbb", "bbwbwebbwbwewbwe", "eewwwwbwbbwbbbew", "wwebbebwewwbbweb", "webbewbeebbbweee", "wbeewbwbbbbbeewe", "bbwbwwwbwbwweebw", "ewbbbweweewbeweb", "bbebbbbbbewwwebw"}		12		Passed
+
+
+	17, 4, {"wwbb", "bbbe", "ebwb", "wwbb", "bbeb", "bwbb", "eeew", "bbbw", "wwwb", "wbwe", "wbew", "bebb", "bwbe", "eweb", "bwbw", "bbee", "bebb"}		6		Passed
+
+
+	5, 12, {"wbbbebbwewww", "bbeebbwweewb", "wwbeweweebwe", "ewebbwebebww", "ebbbwwbebwew"}		6		Passed
+
+
+	16, 20, {"bbwewewbwwwbeewwwwbb", "beebbwbewbbbbeewwbwb", "webebbbwwwbwbewewwww", "bbewbbwebewbewewwbeb", "ewwbeewebwbebwwbbbbw", "wwbwbbwwbwwewbwbbbww", "bewbwwbbbwewbbwbeeew", "eewbwwebweeebewwebew", "wwwbwewebwbbewewbwwe", "eewbbbewwbbebbewebww", "bwebbeebbbwbbwwbbbeb", "wbbwbweewbebwwbebweb", "wbwbwwbbewbebbebbwwb", "ebbebbwwwbbbbbwewbwe", "bwwbwebwbwwwwebwbeee", "eeebwbebwwebbwbwbwbw"}		10		Passed
+
+
+	7, 14, {"wwwewwbbwwbbew", "bebwewwbebwbbb", "wbebbwbweebeeb", "wwwbwwbbwwwwbe", "wbwwwwewewwbww", "wewbbbwwewbeeb", "wwbwbwbbbwbbbe"}		5		Passed
+
+
+	4, 6, {"wbbewb", "weeeww", "beweww", "eewbee"}		3		Passed
+
+
+	10, 15, {"wwebbebwwebeewe", "wbebwbeebbwewbb", "ebbewwwwebeewew", "ewbbbbbbewewwwb", "ewwbbeewwweeebe", "webebwbwweewwwe", "wwbewbwbbeewebe", "beweewwwwwwweee", "bbwbbbewebbwwwe", "eebbbwwebebeebw"}		5		Passed
+
+
+	8, 11, {"wwwwewewwwb", "wweeeewwwbw", "ebebbwbewwe", "bewbwwebeew", "ewweewweebb", "eewwwwwbweb", "wwbeeewwwwb", "ewewebbweww"}		6		Passed
+
+
+	2, 8, {"wbbeeewb", "ewbeweee"}		2		Passed
+
+
+	20, 16, {"ebwewbebwbbeeeew", "wwewebwwweewwewb", "beebeewwewbwweee", "ewbbeebbewwbeebw", "ebbewbwbbweweeww", "weeebbeeeeeeebbb", "wwebbwwwewebwbeb", "weeebwbeewwwwwwe", "eewbwbbbweebewbb", "bewebbebbwewbwew", "wwbwwebbbewwwewb", "webewbbwbewewwwe", "eebeeeweeweeebwe", "ewbwewebewebbebw", "eeewewbwewbbebee", "bwbwbeewewbewwww", "ewbbwwewebeebweb", "wwebbebbbewebwew", "bbebewwewwbbwwew", "ebwwbwwwewbwwbbw"}		20		Passed
+
+
+	3, 6, {"bwwewe", "wewwew", "eweebe"}		2		Passed
+
+
+	3, 20, {"bbwebbwwweweeebewbww", "wwwbeebwweeewwwebbew", "weeewbbebewbwbebwwwe"}		8		Passed
+
+
+	4, 8, {"ebwbbweb", "eeweeeew", "bebbeeeb", "webwebwe"}		6		Passed
+
+
+	11, 2, {"ew", "bb", "be", "bw", "ew", "ee", "ww", "be", "bw", "wb", "bb"}		3		Passed
+
+
+	2, 7, {"wbbewbe", "wwbwbww"}		3		Passed
+
+
+	14, 17, {"wbewwewweewwbbbeb", "wwweeeebbwwwwebwb", "wbewwbwbbwewewwwb", "wwewbwbwwwbbebbwe", "beebebbwewebbbeww", "bwwwebwwwewwbbbww", "wbewbbwbbbbwbwwww", "weewbeewwbwbwebwb", "wbbbewwwwwwwwewww", "eebbbwwbwbbbbwwbw", "bbbwwebwwebebbwbe", "ewwwwwbeebbewwwee", "wweebeewbbbwwwebe", "wbbwwwbbwewbbeewb"}		7		Passed
+
+
+	8, 11, {"bbbbwbwbwwb", "ewwwwwwewwe", "wweewbbbwww", "bewwebbbbew", "eweebwewwwe", "webbewwbweb", "bebbebbwwwe", "ebbebweweeb"}		6		Passed
+
+
+	11, 14, {"bwbbbbebebwbbb", "wbbbbwwbbbwwwe", "ewweebeeebbebw", "webwbbwewbebww", "bwebbbwewwbbee", "ewbwwbbbbbbwbw", "bweewewwbbbbww", "wbebewbbeeeweb", "bwebeweebewbwb", "ewwbwwbewbwwbw", "wewbbwwewbbbbe"}		7		Passed
+
+
+	2, 8, {"ewewbbbb", "bwebewww"}		3		Passed
+
+
+	18, 14, {"ewbwewwwbbbbbb", "wbbbeeebwwwwwb", "webewbbwbwwbwb", "ebwwwwbwwbwweb", "bwbbbbbwwbbewe", "bbbebbwbbbeewb", "wewwbbwwwbewbe", "wwewbbebbbwbwb", "ebbbwwwbebwebb", "eebeweweewbbbw", "ewwbwbeebwwbwe", "weebbebwwwbwbb", "bwwweewbewwwbw", "wwbewbbwwebewb", "ebwbwwbwbbwbeb", "wwbweweewbwwbw", "ewbbwbebbwwwbw", "wbwebwbbwwebww"}		7		Passed
+
+
+	17, 8, {"wwwewwww", "webewbww", "bebebbbb", "wewewbbw", "bwbwwwew", "bwewbwbb", "ebweewww", "wewwbwwb", "eewwewee", "wweeebbw", "ebbwbbwb", "ewewbbwe", "wbwwbewb", "bewebeew", "ebebbbew", "ewbeebbw", "wwebbwee"}		7		Passed
+
+
+	15, 3, {"wbb", "wew", "wbw", "bbw", "wew", "wbw", "bww", "eeb", "www", "wew", "web", "wbw", "web", "wbw", "bbb"}		4		Passed
+
+
+	20, 5, {"beweb", "webwb", "wwbww", "wbwww", "wwbwe", "bwbwb", "bewwb", "bebww", "wbwwe", "wwebb", "wwbwe", "bebww", "bwwww", "wwwwb", "bweew", "ebbww", "eeebe", "ewbbb", "eebwe", "bewww"}		5		Passed
+
+
+	20, 10, {"beeewbbwwb", "wwbwwwbewb", "eeebwbbbee", "wbwbewbewb", "wwwebwewwb", "wwbwbbbwew", "ebwwbwwwbw", "ebwbewwebe", "wbebwbwwww", "ewbbewwbwe", "wewbbebweb", "eeweewwbew", "eeeewewbbw", "weebbwwwww", "ebwwbweweb", "wewewbwbww", "bbebwebbwb", "weeeeewbwb", "wbbbeewbbw", "eeewbewwee"}		10		Passed
+
+
+	3, 17, {"bewwwbbbwbwbweebb", "bbbbwbbweebewewbw", "wbwwwbebwbewwwbww"}		6		Passed
+
+
+	5, 5, {"bwebw", "wbebb", "eeeee", "bbebb", "bbebb"}		3		Passed
+
+
+	6, 7, {"bwbbbbb", "bwbwwwb", "bwbwewb", "bwbbbwb", "bwwwwwb", "bbbbbbb"}		1		Passed
+
+
+	6, 7, {"bwbbbbb", "bwbwwwb", "eeeeeee", "bwbbbwb", "bwwwwwb", "bbbbbbb"}		3		Passed
+
+
+	20, 20, {"eweebwbwewbwbwbwbwbe", "wbweweebebeeeeeewewe", "bebebebwbweebwbebebe", "wewbweweeewbwewbwbwe", "beeeeebeeebeeeeebeee", "wbwbwbwbwbwbwbwbwbwb", "eebebebewebebewewebe", "eewebebewewewewebewe", "ebwewbwebwbebbbebwwe", "ewbweweebeweeeeeebee", "ewebeweewebwwwwwwbee", "ewbbewbbbbbeebbbebee", "eeweeewbeewwwewwwwee", "ebbeweweeebeewebbbbb", "eewbwbbbbwbwebeebbee", "eeeeeeeweeeebeweewee", "ewwebeeeeweeeeeeewee", "eebebeewebwbwbwbwbee", "ewbwwbewbbbeeeeeeeee", "eeweewbweeeeeeeeeeee"}		22		Passed
+
+
+	5, 5, {"wbwbw", "bwbwb", "wbwbw", "bwbwb", "wbwbe"}		4		Passed
+
+
+	9, 9, {"eeeebeeee", "eeeeweeee", "eeeebeeee", "eeeeweeee", "bwbwbwbwb", "eeeeweeee", "eeeebeeee", "eeeeweeee", "eeeebeeee"}		4		Passed
+
+
+	20, 20, {"wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwewbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw", "wbwbwbwbwbwbwbwbwbwb", "bwbwbwbwbwbwbwbwbwbw"}		20		Passed
+
+
+	18, 19, {"bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwewbwbwbwb", "wbwbwbwbwbwbwbwbwbw", "bwbwbwbwbwbwbwbwbwb", "wbwbwbwbwbwbwbwbwbw"}		18		Passed
+
+
+	3, 5, {"ewbee", "wbwbw", "eweee"}		2		Passed
+
+
