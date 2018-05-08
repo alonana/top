@@ -1,0 +1,111 @@
+	"abba"		2		Passed
+
+
+	"zwwwzffw"		2		Passed
+
+
+	"rrrrrrr"		3		Passed
+
+
+	"dfghj"		0		Passed
+
+
+	"wasitacarooracatisaw"		10		Passed
+
+
+	"abcdefghijklmnopqrstuvxyzzyxvutsrqponmlkjihgfedcba"		25		Passed
+
+
+	"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"		25		Passed
+
+
+	"cacaabaabcaacbbaacbcaaabcaaabaaabbcbcbaaabaaccaabb"		17		Passed
+
+
+	"bcedaeacabadccadbadbbbadddebdbcbcbdbaccbaebeccccce"		6		Passed
+
+
+	"zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"		24		Passed
+
+
+	"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbb"		24		Passed
+
+
+	"bbbbbdcccccccccaacccccbbbbaaaaaadddddddddaaaaaaaaa"		24		Passed
+
+
+	"baabbbbbbaaaababababbbbaabbaaaababababaaabaababbaa"		19		Passed
+
+
+	"aabbacccbaababcccbbccbcbacccbbcacbcbcabbabacccbbca"		18		Passed
+
+
+	"cdbebdcaeacdeaeeccbecbeadcddcdeadbbaccbbeaaeceedeb"		11		Passed
+
+
+	"aaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbb"		24		Passed
+
+
+	"aaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb"		25		Passed
+
+
+	"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbb"		24		Passed
+
+
+	"aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"		24		Passed
+
+
+	"mmmmmmmmmmmmmmmmmmmmecdeacbedbcdaaebecbeqqqqqqqqqq"		16		Passed
+
+
+	"ababababababababababababababababababababababababab"		0		Passed
+
+
+	"bbbbaaaaaaabbbbbbbbbaaaaaaaaaabbbbbbbbaaaaaaaaaabb"		24		Passed
+
+
+	"cccccccccccccaaaaaaaaacccccbaaaaaaaabbbbbbbbbbabbb"		22		Passed
+
+
+	"ddddddddddbbbbccccbbbbbbbbbbbbbaaaaaaabbbbbbbccccc"		23		Passed
+
+
+	"bbdbcbgggrrgbcaabd"		9		Passed
+
+
+	"tuvxyzzyxlmnopqrssrqponmlvuabcdefghijkkjihgfedcbat"		25		Passed
+
+
+	"k"		0		Passed
+
+
+	"amanaplanaccanalpanama"		11		Passed
+
+
+	"noxinnixonmadam"		5		Passed
+
+
+	"faaaccccf"		3		Passed
+
+
+	"ntzlylvwulbdkcdppgykichjtpukfnlxfcevkjezqsme"		1		Passed
+
+
+	"wimliygnfddfeswmxxuvhnqvjzgkpdzf"		3		Passed
+
+
+	"ykzeqjjpehsgiqvyezbqwnpyuciolbbloxjxuozsuvqwphl"		4		Passed
+
+
+	"mlotftnqrjolvuamahndekfdsqcfvm"		0		Passed
+
+
+	"shtmrentgsnddnbttbbbmougguopyypw"		10		Passed
+
+
+	"aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyy"		25		Passed
+
+
+	"aaba"		1		Passed
+
+
