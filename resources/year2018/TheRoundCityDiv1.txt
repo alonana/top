@@ -1,0 +1,225 @@
+	2		8		Passed
+	1		4		Passed
+
+
+
+
+	3		16		Passed
+
+
+	47		4176		Passed
+
+
+	96		17592		Passed
+
+
+	75		10728		Passed
+
+
+	86		14120		Passed
+
+
+	85		13784		Passed
+
+
+	17		544		Passed
+
+
+	23		1000		Passed
+
+
+	52		5184		Passed
+
+
+	83		13144		Passed
+
+
+	64		7840		Passed
+
+
+	88		14784		Passed
+
+
+	62		7336		Passed
+
+
+	78		11632		Passed
+
+
+	97		17920		Passed
+
+
+	56		6000		Passed
+
+
+	65		8072		Passed
+
+
+	31		1816		Passed
+
+
+	99		18696		Passed
+
+
+	92		16168		Passed
+
+
+	57		6192		Passed
+
+
+	30		1704		Passed
+
+
+	96		17592		Passed
+
+
+	69		9088		Passed
+
+
+	76		11024		Passed
+
+
+	2		8		Passed
+
+
+	14		384		Passed
+
+
+	43		3480		Passed
+
+
+	31		1816		Passed
+
+
+	45		3856		Passed
+
+
+	37		2600		Passed
+
+
+	60		6880		Passed
+
+
+	33		2072		Passed
+
+
+	73		10136		Passed
+
+
+	67		8528		Passed
+
+
+	59		6632		Passed
+
+
+	94		16880		Passed
+
+
+	78		11632		Passed
+
+
+	70		9328		Passed
+
+
+	45		3856		Passed
+
+
+	70		9328		Passed
+
+
+	30		1704		Passed
+
+
+	47		4176		Passed
+
+
+	70		9328		Passed
+
+
+	100		19088		Passed
+
+
+	434396		360390231816		Passed
+
+
+	927975		1644651677048		Passed
+
+
+	267186		136341720616		Passed
+
+
+	773085		1141447313800		Passed
+
+
+	53117		5388505280		Passed
+
+
+	534723		546083570080		Passed
+
+
+	930352		1653087988912		Passed
+
+
+	416783		331757973904		Passed
+
+
+	722664		997411148888		Passed
+
+
+	887088		1502916270000		Passed
+
+
+	957762		1751929325728		Passed
+
+
+	875578		1464168499368		Passed
+
+
+	132697		33629745016		Passed
+
+
+	923695		1629515751088		Passed
+
+
+	943274		1699327576472		Passed
+
+
+	938985		1683909270056		Passed
+
+
+	999584		1908270648336		Passed
+
+
+	993416		1884793085376		Passed
+
+
+	948222		1717202186416		Passed
+
+
+	904051		1560943695016		Passed
+
+
+	988482		1866117166216		Passed
+
+
+	927063		1641420585008		Passed
+
+
+	970487		1798791477896		Passed
+
+
+	965461		1780208408008		Passed
+
+
+	962777		1770324132144		Passed
+
+
+	997596		1900687747992		Passed
+
+
+	1000000		1909859313984		Passed
+
+
+	999999		1909855494720		Passed
+
+
