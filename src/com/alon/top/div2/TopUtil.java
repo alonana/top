@@ -55,6 +55,19 @@ public class TopUtil {
         return ints;
     }
 
+    public double[] getDoubles(String s) {
+        s = s.replace(" ", "");
+        String numbers[] = s.split(",");
+        if (numbers.length == 1 && numbers[0].isEmpty()) {
+            return new double[]{};
+        }
+        double[] doubles = new double[numbers.length];
+        for (int i = 0; i < numbers.length; i++) {
+            doubles[i] = Double.parseDouble(numbers[i]);
+        }
+        return doubles;
+    }
+
     public long[] getLongs(String s) {
         s = s.replace(" ", "");
         String numbers[] = s.split(",");
@@ -114,6 +127,13 @@ public class TopUtil {
     }
 
     public void assertEquals(int[] expected, int[] actual) throws Exception {
+        flush();
+        if (!Arrays.equals(expected, actual)) {
+            throw new Exception("expected " + Arrays.toString(expected) + " actual " + Arrays.toString(actual));
+        }
+    }
+
+    public void assertEquals(double[] expected, double[] actual) throws Exception {
         flush();
         if (!Arrays.equals(expected, actual)) {
             throw new Exception("expected " + Arrays.toString(expected) + " actual " + Arrays.toString(actual));
