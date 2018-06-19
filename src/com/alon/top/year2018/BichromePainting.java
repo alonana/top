@@ -7,6 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class BichromePainting implements InterfaceTopTest {
+
     private String[] required;
     private char[][] current;
     private int fillSize;
