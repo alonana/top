@@ -12,7 +12,7 @@ import java.util.LinkedList;
 public class TopUtil {
     private InterfaceTopTest testClass;
 
-    public TopUtil(InterfaceTopTest testClass) throws Exception {
+    public TopUtil(InterfaceTopTest testClass) {
         this.testClass = testClass;
     }
 
@@ -134,6 +134,13 @@ public class TopUtil {
     }
 
     public void assertEquals(double[] expected, double[] actual) throws Exception {
+        flush();
+        if (!Arrays.equals(expected, actual)) {
+            throw new Exception("expected " + Arrays.toString(expected) + " actual " + Arrays.toString(actual));
+        }
+    }
+
+    public void assertEquals(String[] expected, String[] actual) throws Exception {
         flush();
         if (!Arrays.equals(expected, actual)) {
             throw new Exception("expected " + Arrays.toString(expected) + " actual " + Arrays.toString(actual));

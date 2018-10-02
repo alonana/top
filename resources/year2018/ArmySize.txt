@@ -1,0 +1,645 @@
+	{"Throng", "Throng", "Throng", "Throng", "Throng"}		{"Zounds", "Legion"}		Passed
+	{"Lots", "Lots"}		{"Lots", "Horde"}		Passed
+
+
+	{"Throng", "Few", "Few"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Few", "Few", "Few", "Several"}		{"Several", "Pack", "Lots"}		Passed
+
+
+	{"Few"}		{"Few"}		Passed
+
+
+	{"Few", "Few"}		{"Few", "Several"}		Passed
+
+
+	{"Few", "Few", "Few"}		{"Few", "Several", "Pack"}		Passed
+
+
+	{"Few", "Few", "Few", "Few"}		{"Few", "Several", "Pack"}		Passed
+
+
+	{"Few", "Few", "Few", "Few", "Few"}		{"Several", "Pack", "Lots"}		Passed
+
+
+	{"Few", "Few", "Few", "Few", "Few", "Few"}		{"Several", "Pack", "Lots"}		Passed
+
+
+	{"Few", "Few", "Few", "Few", "Few", "Few", "Few"}		{"Several", "Pack", "Lots"}		Passed
+
+
+	{"Several"}		{"Several"}		Passed
+
+
+	{"Several", "Several"}		{"Pack"}		Passed
+
+
+	{"Several", "Several", "Several"}		{"Pack", "Lots"}		Passed
+
+
+	{"Several", "Several", "Several", "Several"}		{"Lots"}		Passed
+
+
+	{"Several", "Several", "Several", "Several", "Several"}		{"Lots"}		Passed
+
+
+	{"Several", "Several", "Several", "Several", "Several", "Several"}		{"Lots", "Horde"}		Passed
+
+
+	{"Several", "Several", "Several", "Several", "Several", "Several", "Several"}		{"Lots", "Horde"}		Passed
+
+
+	{"Pack"}		{"Pack"}		Passed
+
+
+	{"Pack", "Pack"}		{"Lots"}		Passed
+
+
+	{"Pack", "Pack", "Pack"}		{"Lots", "Horde"}		Passed
+
+
+	{"Pack", "Pack", "Pack", "Pack"}		{"Lots", "Horde"}		Passed
+
+
+	{"Pack", "Pack", "Pack", "Pack", "Pack"}		{"Horde"}		Passed
+
+
+	{"Pack", "Pack", "Pack", "Pack", "Pack", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Pack", "Pack", "Pack", "Pack", "Pack", "Pack", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots"}		{"Lots"}		Passed
+
+
+	{"Lots", "Lots", "Lots"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Lots", "Lots", "Lots"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Lots", "Lots", "Lots", "Lots"}		{"Throng"}		Passed
+
+
+	{"Lots", "Lots", "Lots", "Lots", "Lots", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Lots", "Lots", "Lots", "Lots", "Lots", "Lots", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde"}		{"Horde"}		Passed
+
+
+	{"Horde", "Horde"}		{"Throng"}		Passed
+
+
+	{"Horde", "Horde", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde", "Horde", "Horde", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde", "Horde", "Horde", "Horde", "Horde"}		{"Swarm"}		Passed
+
+
+	{"Horde", "Horde", "Horde", "Horde", "Horde", "Horde"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Horde", "Horde", "Horde", "Horde", "Horde", "Horde", "Horde"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Throng"}		{"Throng"}		Passed
+
+
+	{"Throng", "Throng"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Throng", "Throng", "Throng"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Throng", "Throng", "Throng", "Throng"}		{"Swarm", "Zounds"}		Passed
+
+
+
+
+	{"Throng", "Throng", "Throng", "Throng", "Throng", "Throng"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Throng", "Throng", "Throng", "Throng", "Throng", "Throng", "Throng"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Swarm"}		{"Swarm"}		Passed
+
+
+	{"Swarm", "Swarm"}		{"Zounds"}		Passed
+
+
+	{"Swarm", "Swarm", "Swarm"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Swarm", "Swarm", "Swarm", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Swarm", "Swarm", "Swarm", "Swarm", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Swarm", "Swarm", "Swarm", "Swarm", "Swarm", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Swarm", "Swarm", "Swarm", "Swarm", "Swarm", "Swarm", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Zounds"}		{"Zounds"}		Passed
+
+
+	{"Zounds", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Zounds", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Zounds", "Zounds", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Zounds", "Zounds", "Zounds", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Zounds", "Zounds", "Zounds", "Zounds", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Zounds", "Zounds", "Zounds", "Zounds", "Zounds", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion", "Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion", "Legion", "Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion", "Legion", "Legion", "Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion", "Legion", "Legion", "Legion", "Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion", "Legion", "Legion", "Legion", "Legion", "Legion"}		{"Legion"}		Passed
+
+
+	{"Swarm", "Throng"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Several", "Few"}		{"Several", "Pack"}		Passed
+
+
+	{"Few", "Lots"}		{"Lots", "Horde"}		Passed
+
+
+	{"Swarm", "Few"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Zounds", "Lots"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Horde", "Throng"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Pack", "Several"}		{"Pack", "Lots"}		Passed
+
+
+	{"Pack", "Several"}		{"Pack", "Lots"}		Passed
+
+
+	{"Zounds", "Horde", "Legion"}		{"Legion"}		Passed
+
+
+	{"Throng", "Few", "Few"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Zounds", "Throng", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Pack", "Throng", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Zounds", "Legion", "Few"}		{"Legion"}		Passed
+
+
+	{"Several", "Several", "Pack"}		{"Lots"}		Passed
+
+
+	{"Swarm", "Few", "Legion"}		{"Legion"}		Passed
+
+
+	{"Lots", "Swarm", "Legion"}		{"Legion"}		Passed
+
+
+	{"Swarm", "Pack", "Horde"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Legion", "Several", "Horde"}		{"Legion"}		Passed
+
+
+	{"Few", "Swarm", "Few"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Lots", "Lots", "Swarm"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Horde", "Horde", "Zounds", "Pack"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Legion", "Horde", "Swarm", "Several"}		{"Legion"}		Passed
+
+
+	{"Few", "Horde", "Lots"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Horde", "Horde"}		{"Throng"}		Passed
+
+
+	{"Several", "Pack", "Few"}		{"Pack", "Lots"}		Passed
+
+
+	{"Several", "Horde", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Few", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Few", "Several"}		{"Horde", "Throng"}		Passed
+
+
+	{"Several", "Pack", "Lots"}		{"Lots", "Horde"}		Passed
+
+
+	{"Horde", "Few", "Several"}		{"Horde", "Throng"}		Passed
+
+
+	{"Pack", "Several", "Pack"}		{"Lots"}		Passed
+
+
+	{"Pack", "Lots", "Pack", "Few"}		{"Lots", "Horde"}		Passed
+
+
+	{"Pack", "Lots", "Few", "Pack"}		{"Lots", "Horde"}		Passed
+
+
+	{"Several", "Pack", "Few", "Lots"}		{"Lots", "Horde"}		Passed
+
+
+	{"Lots", "Few", "Pack", "Pack"}		{"Lots", "Horde"}		Passed
+
+
+	{"Few", "Horde", "Pack", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Several", "Lots", "Horde", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Several", "Few", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Pack", "Few", "Several", "Pack"}		{"Lots", "Horde"}		Passed
+
+
+	{"Horde", "Pack", "Horde", "Few"}		{"Throng"}		Passed
+
+
+	{"Pack", "Pack", "Few", "Several"}		{"Lots", "Horde"}		Passed
+
+
+	{"Several", "Pack", "Lots", "Horde"}		{"Horde", "Throng"}		Passed
+
+
+	{"Few", "Lots", "Horde", "Lots"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Horde", "Several", "Several", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde", "Few", "Several", "Horde", "Pack"}		{"Throng"}		Passed
+
+
+	{"Lots", "Pack", "Lots", "Pack", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Horde", "Horde", "Lots", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Pack", "Pack", "Few", "Several", "Horde"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Few", "Few", "Several", "Horde"}		{"Throng"}		Passed
+
+
+	{"Few", "Few", "Few", "Lots", "Horde"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Horde", "Several", "Lots", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Pack", "Lots", "Lots", "Pack", "Horde"}		{"Throng"}		Passed
+
+
+	{"Few", "Pack", "Few", "Few", "Horde"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Few", "Pack", "Pack", "Lots"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Pack", "Few", "Several", "Few"}		{"Lots", "Horde"}		Passed
+
+
+	{"Few", "Pack", "Lots", "Pack", "Several"}		{"Lots", "Horde", "Throng"}		Passed
+
+
+	{"Horde", "Several", "Several", "Several", "Horde"}		{"Throng"}		Passed
+
+
+	{"Few", "Lots", "Horde", "Several", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde", "Pack", "Several", "Lots", "Horde", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Horde", "Lots", "Few", "Several", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Pack", "Pack", "Lots", "Horde", "Few", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Several", "Horde", "Horde", "Lots", "Pack", "Few"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Several", "Several", "Horde", "Several", "Few", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Several", "Lots", "Horde", "Lots", "Horde", "Several"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Lots", "Lots", "Several", "Lots", "Few", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Several", "Several", "Lots", "Lots", "Several"}		{"Horde", "Throng"}		Passed
+
+
+	{"Few", "Horde", "Several", "Pack", "Several", "Lots"}		{"Horde", "Throng"}		Passed
+
+
+	{"Pack", "Horde", "Pack", "Several", "Lots", "Lots"}		{"Throng"}		Passed
+
+
+	{"Several", "Lots", "Several", "Lots", "Few", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Horde", "Pack", "Pack", "Lots", "Several"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Horde", "Lots", "Lots", "Pack", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Pack", "Lots", "Lots", "Few", "Few", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Pack", "Several", "Horde", "Pack", "Lots"}		{"Throng"}		Passed
+
+
+	{"Horde", "Lots", "Several", "Lots", "Pack", "Pack"}		{"Throng"}		Passed
+
+
+	{"Few", "Pack", "Few", "Few", "Few", "Several"}		{"Pack", "Lots"}		Passed
+
+
+	{"Several", "Pack", "Lots", "Several", "Pack", "Several"}		{"Horde", "Throng"}		Passed
+
+
+	{"Pack", "Horde", "Lots", "Pack", "Several", "Several", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Lots", "Lots", "Lots", "Few", "Few", "Lots", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Several", "Few", "Horde", "Several", "Horde", "Lots", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Lots", "Several", "Pack", "Few", "Horde", "Few", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Lots", "Pack", "Horde", "Few", "Few", "Pack", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde", "Several", "Pack", "Horde", "Several", "Horde", "Pack"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Horde", "Pack", "Few", "Several", "Several", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Lots", "Several", "Lots", "Pack", "Several", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Few", "Several", "Horde", "Horde", "Few", "Several", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde", "Lots", "Horde", "Pack", "Pack", "Several", "Several"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Few", "Pack", "Horde", "Lots", "Pack", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Several", "Pack", "Horde", "Horde", "Horde", "Pack"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Lots", "Horde", "Several", "Pack", "Horde", "Pack", "Lots"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Pack", "Several", "Lots", "Lots", "Several", "Several", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Pack", "Lots", "Few", "Pack", "Few", "Pack", "Pack"}		{"Horde", "Throng"}		Passed
+
+
+	{"Lots", "Horde", "Several", "Lots", "Several", "Several", "Several"}		{"Throng"}		Passed
+
+
+	{"Horde", "Pack", "Several", "Several", "Few", "Several", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Pack", "Several", "Horde", "Few", "Several", "Pack", "Lots"}		{"Throng"}		Passed
+
+
+	{"Lots", "Few", "Few", "Horde", "Few", "Few", "Several"}		{"Horde", "Throng"}		Passed
+
+
+	{"Few", "Lots", "Pack", "Few", "Lots", "Several", "Few"}		{"Horde", "Throng"}		Passed
+
+
+	{"Horde", "Lots", "Horde", "Several", "Several", "Several", "Pack"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Swarm", "Pack", "Several"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Lots", "Throng", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Swarm", "Few", "Several"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Throng", "Few", "Horde"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Horde", "Lots", "Zounds"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Swarm", "Horde", "Throng"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Swarm", "Zounds", "Lots"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Horde", "Few", "Lots"}		{"Horde", "Throng"}		Passed
+
+
+	{"Several", "Several", "Few"}		{"Pack", "Lots"}		Passed
+
+
+	{"Swarm", "Swarm", "Lots"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Lots", "Several", "Swarm", "Swarm"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Swarm", "Few", "Throng", "Zounds"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Few", "Throng", "Lots", "Pack"}		{"Throng", "Swarm"}		Passed
+
+
+	{"Few", "Few", "Zounds", "Horde"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Pack", "Zounds", "Throng", "Several"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Pack", "Few", "Few", "Legion"}		{"Legion"}		Passed
+
+
+	{"Pack", "Lots", "Zounds", "Several"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Legion", "Swarm", "Horde", "Several"}		{"Legion"}		Passed
+
+
+	{"Few", "Zounds", "Few", "Swarm"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Throng", "Throng", "Horde", "Pack"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Pack", "Swarm", "Lots", "Legion", "Throng"}		{"Legion"}		Passed
+
+
+	{"Lots", "Several", "Lots", "Zounds", "Horde"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Pack", "Several", "Swarm", "Several", "Few"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Several", "Several", "Throng", "Throng", "Few"}		{"Throng", "Swarm", "Zounds"}		Passed
+
+
+	{"Legion", "Throng", "Zounds", "Horde", "Few"}		{"Legion"}		Passed
+
+
+	{"Several", "Few", "Lots", "Legion", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Lots", "Swarm", "Swarm", "Throng", "Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion", "Horde", "Pack", "Few"}		{"Legion"}		Passed
+
+
+	{"Few", "Zounds", "Lots", "Swarm", "Horde"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Legion", "Few", "Horde", "Throng", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Horde", "Horde", "Throng", "Throng", "Few", "Pack"}		{"Swarm", "Zounds"}		Passed
+
+
+	{"Few", "Throng", "Throng", "Zounds", "Throng", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Legion", "Few", "Several", "Few", "Zounds", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Several", "Legion", "Legion", "Lots", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Zounds", "Legion", "Swarm", "Pack", "Few"}		{"Legion"}		Passed
+
+
+	{"Zounds", "Throng", "Several", "Horde", "Several", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Legion", "Pack", "Swarm", "Throng", "Pack", "Legion"}		{"Legion"}		Passed
+
+
+	{"Horde", "Swarm", "Pack", "Zounds", "Pack", "Pack"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Zounds", "Several", "Zounds", "Legion", "Several", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Horde", "Throng", "Horde", "Legion", "Horde", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Swarm", "Legion", "Swarm", "Several", "Several", "Swarm", "Pack"}		{"Legion"}		Passed
+
+
+	{"Throng", "Pack", "Few", "Pack", "Swarm", "Legion", "Lots"}		{"Legion"}		Passed
+
+
+	{"Pack", "Several", "Throng", "Throng", "Zounds", "Zounds", "Lots"}		{"Legion"}		Passed
+
+
+	{"Several", "Several", "Horde", "Swarm", "Throng", "Swarm", "Several"}		{"Zounds", "Legion"}		Passed
+
+
+	{"Few", "Pack", "Legion", "Horde", "Throng", "Few", "Few"}		{"Legion"}		Passed
+
+
+	{"Horde", "Few", "Throng", "Legion", "Lots", "Few", "Lots"}		{"Legion"}		Passed
+
+
+	{"Several", "Horde", "Lots", "Horde", "Legion", "Pack", "Zounds"}		{"Legion"}		Passed
+
+
+	{"Lots", "Pack", "Horde", "Few", "Legion", "Lots", "Throng"}		{"Legion"}		Passed
+
+
+	{"Swarm", "Several", "Pack", "Swarm", "Horde", "Legion", "Swarm"}		{"Legion"}		Passed
+
+
+	{"Horde", "Legion", "Horde", "Pack", "Few", "Legion", "Pack"}		{"Legion"}		Passed
+
+
+	{"Lots", "Lots", "Several"}		{"Lots", "Horde", "Throng"}		Passed
+
+
+	{"Legion", "Legion", "Legion", "Legion", "Legion", "Legion", "Legion"}		{"Legion"}		Passed
+
+
+	{"Legion", "Legion"}		{"Legion"}		Passed
+
+
