@@ -114,6 +114,13 @@ public class TopUtil {
         }
     }
 
+    public void assertEquals(boolean expected, boolean actual) throws Exception {
+        flush();
+        if (expected != actual) {
+            throw new Exception("expected " + expected + " actual " + actual);
+        }
+    }
+
     public void assertEquals(String expected, String actual) throws Exception {
         flush();
         if (!expected.equals(actual)) {
