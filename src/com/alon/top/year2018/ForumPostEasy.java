@@ -110,6 +110,15 @@ public class ForumPostEasy implements InterfaceTopTest {
         if (from2 > to2) {
             to2 += DAY;
         }
-        return from1 <= to2 && to1 >= from2;
+        if (from1 <= to2 && to1 >= from2) {
+            return true;
+        }
+        if (from1 <= to2 + DAY && to1 >= from2 + DAY) {
+            return true;
+        }
+        if (from1 + DAY <= to2 && to1 + DAY >= from2) {
+            return true;
+        }
+        return false;
     }
 }
