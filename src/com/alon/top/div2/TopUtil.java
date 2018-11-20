@@ -85,9 +85,10 @@ public class TopUtil {
         if (s.isEmpty()) {
             return new String[0];
         }
-        s = s.replace(" ", "");
+        s = s.trim();
         String strings[] = s.split(",");
         for (int i = 0; i < strings.length; i++) {
+            strings[i] = strings[i].trim();
             strings[i] = strings[i].substring(1, strings[i].length() - 1);
         }
         return strings;
