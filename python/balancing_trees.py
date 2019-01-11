@@ -54,17 +54,49 @@ class Node:
             already_indented += c.print_level(depth, already_indented)
         return already_indented
 
+    def total_weight(self):
+        total = self.weight
+        for c in self.children:
+            total += c.total_weight()
+        return total
+
+    def balance(self):
+        if not self.children:
+            return 0
+
+        cost = 0
+        for c in self.children:
+            cost += c.balance()
+
+        alternatives = []
+        for c in self.children:
+            w = c.total_weight()
+            if w not in alternatives:
+                alternatives.append(w)
+
+        best_alternative = None
+        best_alternative_cost = None
+        for alternative in alternatives:
+            alternative_cost = 0
+            for c in self.children:
+                alternative_cost += abs(c.total_weight() - alternative)
+            if best_alternative is None or alternative_cost < best_alternative_cost:
+                best_alternative = alternative
+                best_alternative_cost = alternative_cost
+
+        return cost + best_alternative_cost
+
 
 def min_cost(p, w):
     w.pop(0)
-    print("parents {} weights {}".format(p, w))
-    nodes = {0: Node(0, 0)}
+    root = Node(0, 0)
+    nodes = {0: root}
     for i, weight in enumerate(w):
         nodes[i + 1] = Node(weight, i + 1)
     for i, parent in enumerate(p):
         nodes[parent].add_child(nodes[i + 1])
-    nodes[0].print()
-    return 1
+    root.print()
+    return root.balance()
 
 
 def run_line(match):
