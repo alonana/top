@@ -1,0 +1,153 @@
+	1		1		Passed
+
+
+	2		2		Passed
+
+
+	3		4		Passed
+
+
+	4		8		Passed
+
+
+	5		16		Passed
+
+
+	6		32		Passed
+
+
+	7		64		Passed
+
+
+	8		128		Passed
+
+
+	9		256		Passed
+
+
+	10		512		Passed
+
+
+	11		1024		Passed
+
+
+	12		2048		Passed
+
+
+	13		4096		Passed
+
+
+	14		8192		Passed
+
+
+	15		16384		Passed
+
+
+	16		32768		Passed
+
+
+	17		65536		Passed
+
+
+	18		131072		Passed
+
+
+	19		262144		Passed
+
+
+	20		524288		Passed
+
+
+	21		1048576		Passed
+
+
+	22		2097152		Passed
+
+
+	23		4194304		Passed
+
+
+	24		8388608		Passed
+
+
+	25		16777216		Passed
+
+
+	26		33554432		Passed
+
+
+	27		67108864		Passed
+
+
+	28		134217728		Passed
+
+
+	29		268435456		Passed
+
+
+	30		536870912		Passed
+
+
+	31		1073741824		Passed
+
+
+	32		2147483648		Passed
+
+
+	33		4294967296		Passed
+
+
+	34		8589934592		Passed
+
+
+	35		17179869184		Passed
+
+
+	36		34359738368		Passed
+
+
+	37		68719476736		Passed
+
+
+	38		137438953472		Passed
+
+
+	39		274877906944		Passed
+
+
+	40		549755813888		Passed
+
+
+	41		1099511627776		Passed
+
+
+	42		2199023255552		Passed
+
+
+	43		4398046511104		Passed
+
+
+	44		8796093022208		Passed
+
+
+	45		17592186044416		Passed
+
+
+	46		35184372088832		Passed
+
+
+	47		70368744177664		Passed
+
+
+	48		140737488355328		Passed
+
+
+	49		281474976710656		Passed
+
+
+	50		562949953421312		Passed
+
+
+
+
+
