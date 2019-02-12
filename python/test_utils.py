@@ -18,6 +18,10 @@ def assert_equals(actual, expected):
         raise Exception(error_message)
 
 
+def get_strings(data):
+    return [s.strip()[1:-1] for s in data.split(',')]
+
+
 def test_solution(caller_file, regex, line_handler):
     print('Starting')
 
