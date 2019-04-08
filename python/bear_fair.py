@@ -38,27 +38,31 @@ def is_fair(n, b, up_to, quantity):
             print("quantity decrease {} from {} to {} on upto {}".format(quantity_diff, prev_q, curr_q, curr_u))
             return UNFAIR
         if quantity_diff > upto_diff:
-            print("quantity jump too high from {} to {} on upto {}".format(prev_q, curr_q, curr_u))
+            print(
+                "quantity jump too quantity from {} to {} on upto from {} to {}".format(prev_q, curr_q, prev_u, curr_u))
             return UNFAIR
 
-        # print("upto_diff {}, quantity_diff {}".format(upto_diff, quantity_diff))
-        if upto_diff == quantity_diff:
-            if upto_diff % 2 == 1:
-                if curr_u % 2 == 0:
-                    even += 1
-                else:
-                    odd += 1
-        elif quantity_diff > 0:
-            free = upto_diff - quantity_diff
-            if free == 1:
-                if curr_u % 2 == 0:
-                    even += 1
-                else:
-                    odd += 1
+        range_odd = 0
+        range_even = 0
+        for n in range(prev_u + 1, curr_u + 1, 1):
+            if n % 2 == 0:
+                range_even += 1
             else:
-                free = min(quantity_diff, (upto_diff - quantity_diff) // 2)
-                if free > 0:
-                    wildcard += free
+                range_odd += 1
+
+        remained = quantity_diff
+        for i in range(quantity_diff):
+            # print("remained {}, range odd {}, range even {}".format(remained, range_odd, range_even))
+            if range_odd >= remained and range_even >= remained:
+                wildcard += remained
+                break
+            if range_odd > range_even:
+                range_odd -= 1
+                odd += 1
+            else:
+                range_even -= 1
+                even += 1
+            remained -= 1
 
         prev_u = curr_u
         prev_q = curr_q
