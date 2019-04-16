@@ -1,0 +1,441 @@
+1, 10		1		Passed
+
+
+	1, 99		2		Passed
+
+
+	99, 100		0		Passed
+
+
+	1000, 1010		2		Passed
+
+
+	444, 454		2		Passed
+
+
+	130, 200		3		Passed
+
+
+	999, 1010		2		Passed
+
+
+	1, 100000		5		Passed
+
+
+	99861, 100000		4		Passed
+
+
+	123, 98765		5		Passed
+
+
+	12, 1021		3		Passed
+
+
+	4535, 4600		4		Passed
+
+
+	32521, 33006		5		Passed
+
+
+	64988, 64999		4		Passed
+
+
+	72321, 72322		3		Passed
+
+
+	4352, 12521		5		Passed
+
+
+	12305, 12311		4		Passed
+
+
+	12300, 12310		4		Passed
+
+
+	10000, 10101		4		Passed
+
+
+	99500, 100000		4		Passed
+
+
+	117, 138		3		Passed
+
+
+	11189, 11191		2		Passed
+
+
+	1117, 11117		5		Passed
+
+
+	33333, 43333		5		Passed
+
+
+	55555, 55999		4		Passed
+
+
+	55555, 55599		3		Passed
+
+
+	8761, 18761		5		Passed
+
+
+	5188, 15454		5		Passed
+
+
+	16875, 35118		5		Passed
+
+
+	414, 581		3		Passed
+
+
+	1449, 4757		4		Passed
+
+
+	1497, 3720		4		Passed
+
+
+	15349, 76740		5		Passed
+
+
+	2890, 4512		4		Passed
+
+
+	1114, 1802		4		Passed
+
+
+	34, 210		3		Passed
+
+
+	288, 773		3		Passed
+
+
+	23068, 29929		5		Passed
+
+
+	3, 6		0		Passed
+
+
+	1495, 2710		4		Passed
+
+
+	810, 5916		4		Passed
+
+
+	5541, 34851		5		Passed
+
+
+	17074, 26817		5		Passed
+
+
+	2428, 4948		4		Passed
+
+
+	756, 15513		5		Passed
+
+
+	8322, 14129		5		Passed
+
+
+	28637, 32616		5		Passed
+
+
+	1491, 88575		5		Passed
+
+
+	9, 445		3		Passed
+
+
+	4, 6		0		Passed
+
+
+	159, 186		3		Passed
+
+
+	62259, 65309		5		Passed
+
+
+	2, 5		0		Passed
+
+
+	3137, 4391		4		Passed
+
+
+	2007, 22258		5		Passed
+
+
+	44343, 87716		5		Passed
+
+
+	982, 37122		5		Passed
+
+
+	531, 1030		3		Passed
+
+
+	19379, 88799		5		Passed
+
+
+	5498, 15622		5		Passed
+
+
+	598, 663		3		Passed
+
+
+	1, 10		1		Passed
+
+
+	2366, 2867		4		Passed
+
+
+	948, 3332		4		Passed
+
+
+	13152, 56837		5		Passed
+
+
+	1866, 5805		4		Passed
+
+
+	81598, 86963		5		Passed
+
+
+	5211, 6220		4		Passed
+
+
+	50498, 88442		5		Passed
+
+
+	26605, 36316		5		Passed
+
+
+	3390, 4949		4		Passed
+
+
+	2816, 4001		4		Passed
+
+
+	41390, 53834		5		Passed
+
+
+	122, 195		3		Passed
+
+
+	91, 182		3		Passed
+
+
+	5843, 60490		5		Passed
+
+
+	53455, 94634		5		Passed
+
+
+	3457, 4529		4		Passed
+
+
+	111, 257		3		Passed
+
+
+	16929, 24273		5		Passed
+
+
+	937, 1665		4		Passed
+
+
+	290, 303		2		Passed
+
+
+	3614, 5478		4		Passed
+
+
+	38, 40		1		Passed
+
+
+	1453, 5715		4		Passed
+
+
+	123, 298		3		Passed
+
+
+	214, 2983		4		Passed
+
+
+	1, 10000		4		Passed
+
+
+	1, 9		0		Passed
+
+
+	9, 99		2		Passed
+
+
+	2, 100000		5		Passed
+
+
+	99999, 100000		0		Passed
+
+
+	1231, 1239		3		Passed
+
+
+	1234, 1242		3		Passed
+
+
+	98, 101		2		Passed
+
+
+	1, 10005		4		Passed
+
+
+	100, 101		2		Passed
+
+
+	99, 101		2		Passed
+
+
+	12, 13		1		Passed
+
+
+	19, 21		1		Passed
+
+
+	10000, 100000		5		Passed
+
+
+	122, 123		2		Passed
+
+
+	1, 99999		5		Passed
+
+
+	12, 100000		5		Passed
+
+
+	11, 22		2		Passed
+
+
+	25433, 25467		5		Passed
+
+
+	123, 124		2		Passed
+
+
+	11234, 11235		3		Passed
+
+
+	91, 109		2		Passed
+
+
+	75, 76		1		Passed
+
+
+	109, 110		2		Passed
+
+
+	1, 1033		4		Passed
+
+
+	121, 122		2		Passed
+
+
+	10, 11		1		Passed
+
+
+	12345, 12353		4		Passed
+
+
+	13, 31		2		Passed
+
+
+	14, 15		1		Passed
+
+
+	989, 999		2		Passed
+
+
+	98, 100		1		Passed
+
+
+	9000, 9001		2		Passed
+
+
+	1, 10242		4		Passed
+
+
+	58027, 100000		5		Passed
+
+
+	13, 21		1		Passed
+
+
+	21, 121		3		Passed
+
+
+	2345, 2350		3		Passed
+
+
+	1, 10001		4		Passed
+
+
+	122, 133		3		Passed
+
+
+	1024, 1025		3		Passed
+
+
+	1234, 1237		3		Passed
+
+
+	102, 105		2		Passed
+
+
+	129, 130		1		Passed
+
+
+	18, 19		1		Passed
+
+
+	4543, 4553		3		Passed
+
+
+	6997, 7097		4		Passed
+
+
+	998, 1013		3		Passed
+
+
+	100, 120		3		Passed
+
+
+	12552, 13897		5		Passed
+
+
+	89, 121		3		Passed
+
+
+	100, 456		3		Passed
+
+
+	2, 11		1		Passed
+
+
+	9910, 10011		3		Passed
+
+
+	78, 79		1		Passed
+
+
+	7535, 91956		5		Passed
+
+
+	1, 1002		3		Passed
+
+
+	97, 98		1		Passed
+
+
+	999, 1001		2		Passed
+
+
+	1, 10010		4		Passed
+
+
