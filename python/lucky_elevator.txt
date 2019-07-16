@@ -1,0 +1,75 @@
+	3		3		Passed
+
+
+	5		4		Passed
+
+
+	18		16		Passed
+
+
+	50		36		Passed
+
+
+	100000		59049		Passed
+
+
+	1		1		Passed
+
+
+	2		2		Passed
+
+
+	6		5		Passed
+
+
+	7		6		Passed
+
+
+	8		7		Passed
+
+
+	9		8		Passed
+
+
+	10		9		Passed
+
+
+	11		10		Passed
+
+
+	12		11		Passed
+
+
+	13		12		Passed
+
+
+	15		13		Passed
+
+
+	98768		58129		Passed
+
+
+	98756		58118		Passed
+
+
+	99887		58956		Passed
+
+
+	99888		58957		Passed
+
+
+	89760		52290		Passed
+
+
+	86722		50078		Passed
+
+
+	90000		52488		Passed
+
+
+	76731		43525		Passed
+
+
+	71717		40596		Passed
+
+
