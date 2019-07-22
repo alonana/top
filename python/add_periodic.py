@@ -93,6 +93,30 @@ def truncate_zeros(n):
         n['y'] = n['y'][:-1]
 
 
+def get_y_safe(n):
+    if n['y'] == '':
+        return 0
+    return int(n['y'])
+
+
+def pattern_reduce(n):
+    if n['z'] == '0':
+        return
+    pattern = n['y'] + n['z']
+    for y_len in range(len(pattern)):
+        for z_len in range(1, len(pattern)):
+            y = pattern[:y_len]
+            z = pattern[y_len:y_len + z_len]
+            check = y + z
+            while len(check) + z_len < len(pattern):
+                check += z
+            print('pattern ' + check)
+            if pattern.startswith(check):
+                n['y'] = y
+                n['z'] = z
+                return
+
+
 def add(a, b):
     a = parse(a)
     b = parse(b)
@@ -108,20 +132,11 @@ def add(a, b):
     extend_z_by_z(b, z_common)
     print(periodic_string(a), periodic_string(b))
 
-    y_a = a['y']
-    y_b = b['y']
-    if y_a == '':
-        y_a = 0
-    else:
-        y_a = int(y_a)
-    if y_b == '':
-        y_b = 0
-    else:
-        y_b = int(y_b)
+    multiplier = 2
     c = {
         'x': str(int(a['x']) + int(b['x'])),
-        'y': str(y_a + y_b),
-        'z': str(int(a['z']) + int(b['z'])),
+        'y': str(get_y_safe(a) + get_y_safe(b)),
+        'z': str(int(a['z'] * multiplier) + int(b['z'] * multiplier))[:-1],
     }
     print("after a+b: " + periodic_string(c))
 
@@ -137,7 +152,7 @@ def add(a, b):
 
     print("after y nines to x: " + periodic_string(c))
 
-    if len(c['z']) > len(a['z']):
+    if len(c['z']) > multiplier * len(a['z']) - 1:
         z = c['z']
         c['z'] = z[1:]
         c['y'] = str(int(c['y']) + int(z[:1]))
@@ -159,6 +174,10 @@ def add(a, b):
 
     truncate_zeros(c)
     print("after zeros truncate: " + periodic_string(c))
+
+    pattern_reduce(c)
+    print("after pattern reduce: " + periodic_string(c))
+
     return periodic_string(c)
 
 
