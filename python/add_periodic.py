@@ -76,16 +76,6 @@ def reduce_multiple(n):
     return n
 
 
-def combine_y_z(c):
-    z = c['z']
-    y = c['y']
-    current = z
-    while len(current) < len(y):
-        current += z
-    if current == y:
-        c['y'] = 0
-
-
 def truncate_zeros(n):
     if n['z'] != 0:
         return
@@ -100,18 +90,18 @@ def get_y_safe(n):
 
 
 def pattern_reduce(n):
-    if n['z'] == '0':
-        return
     pattern = n['y'] + n['z']
+    pattern_longer = n['y'] + n['z'] * 5
+    print('long pattern ' + pattern_longer)
     for y_len in range(len(pattern)):
         for z_len in range(1, len(pattern)):
             y = pattern[:y_len]
             z = pattern[y_len:y_len + z_len]
             check = y + z
-            while len(check) + z_len < len(pattern):
+            while len(check) + z_len < len(pattern_longer):
                 check += z
             print('pattern ' + check)
-            if pattern.startswith(check):
+            if pattern_longer.startswith(check):
                 n['y'] = y
                 n['z'] = z
                 return
@@ -132,11 +122,11 @@ def add(a, b):
     extend_z_by_z(b, z_common)
     print(periodic_string(a), periodic_string(b))
 
-    multiplier = 2
+    multiplier = 1
     c = {
         'x': str(int(a['x']) + int(b['x'])),
         'y': str(get_y_safe(a) + get_y_safe(b)),
-        'z': str(int(a['z'] * multiplier) + int(b['z'] * multiplier))[:-1],
+        'z': str(int(a['z'] * multiplier) + int(b['z'] * multiplier)),
     }
     print("after a+b: " + periodic_string(c))
 
@@ -152,9 +142,9 @@ def add(a, b):
 
     print("after y nines to x: " + periodic_string(c))
 
-    if len(c['z']) > multiplier * len(a['z']) - 1:
+    if len(c['z']) > multiplier * len(a['z']):
         z = c['z']
-        c['z'] = z[1:]
+        c['z'] = str(int(z[1:]) + 1)
         c['y'] = str(int(c['y']) + int(z[:1]))
 
     print("after z overflow to y: " + periodic_string(c))
@@ -168,9 +158,6 @@ def add(a, b):
 
     c['z'] = reduce_multiple(c['z'])
     print("after reduce multiple z: " + periodic_string(c))
-
-    combine_y_z(c)
-    print("after combine y to z: " + periodic_string(c))
 
     truncate_zeros(c)
     print("after zeros truncate: " + periodic_string(c))
