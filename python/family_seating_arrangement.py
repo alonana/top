@@ -11,8 +11,6 @@ def count_ways(a, k):
     # all parents together in each table
     total = total * k
 
-    # parents are separated
-
     return total
 
 
