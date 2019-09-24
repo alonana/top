@@ -1,11 +1,11 @@
 from python.test_utils import test_solution, assert_equals, get_ints, get_strings
 
 
-def isColliding(current, value):
+def is_colliding(current, value):
     return current != 'Not Sure' and current != value
 
 
-def solve(n, q, a, last_seen, t):
+def solve(a, last_seen, t):
     reports = {}
     for i in range(len(a)):
         at = a[i]
@@ -23,11 +23,11 @@ def solve(n, q, a, last_seen, t):
         last_seen_time = reports[new_time]
         for i in range(prev_time, last_seen_time):
             times[i] = 'Not Sure'
-        if isColliding(times[last_seen_time], 'Yes'):
+        if is_colliding(times[last_seen_time], 'Yes'):
             return []
         times[last_seen_time] = 'Yes'
         for i in range(last_seen_time + 1, new_time + 1):
-            if isColliding(times[i], 'No'):
+            if is_colliding(times[i], 'No'):
                 return []
             times[i] = 'No'
 
@@ -40,13 +40,11 @@ def solve(n, q, a, last_seen, t):
 
 
 def run_line(match):
-    n = match.group(1)
-    q = match.group(2)
     a = get_ints(match.group(3))
     last_seen = get_ints(match.group(4))
     t = get_ints(match.group(5))
     expected = get_strings(match.group(6))
-    actual = solve(n, q, a, last_seen, t)
+    actual = solve(a, last_seen, t)
     assert_equals(actual, expected)
 
 
