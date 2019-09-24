@@ -19,7 +19,10 @@ def assert_equals(actual, expected):
 
 
 def get_strings(data):
-    return [s.strip()[1:-1] for s in data.split(',')]
+    parts = [s.strip()[1:-1] for s in data.split(',')]
+    if '' in parts:
+        parts.remove('')
+    return parts
 
 
 def test_solution(caller_file, regex, line_handler):
