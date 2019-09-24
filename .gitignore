@@ -4,3 +4,4 @@ target
 dfc.config.properties
 *.pyc
 .Dockerfile.actual
+venv
