@@ -316,4 +316,4 @@
 	{"NYYNN", "YNNYN", "YNNNY", "NYNNN", "NNYNN"}, 2		8		Passed
 
 
-	{"NYY", "YNY", "YYN"}, 5		5
+	{"NYY", "YNY", "YYN"}, 5		5 Passed
