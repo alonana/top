@@ -1,4 +1,3 @@
-import os
 import re
 import sys
 
@@ -28,7 +27,7 @@ def get_strings(data):
 def test_solution(caller_file, regex, line_handler):
     print('Starting')
 
-    file_name = os.path.basename(caller_file).replace(".py", ".txt")
+    file_name = caller_file.replace(".py", ".txt")
     with open(file_name) as f:
         for line in f.readlines():
             if len(line.strip()) > 0:
