@@ -10,7 +10,12 @@ def get_ints(s):
 
 
 def assert_equals(actual, expected):
-    if actual != expected:
+    if type(actual) == float or type(expected) == float:
+        equals = abs(actual - expected) < 1e-9
+    else:
+        equals = (actual == expected)
+
+    if not equals:
         sys.stdout.flush()
         sys.stderr.flush()
         error_message = "Expected: {}, but actual is {}".format(expected, actual)
