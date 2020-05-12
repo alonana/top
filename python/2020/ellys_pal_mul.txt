@@ -1,0 +1,687 @@
+	42		6		Passed
+
+
+	121		1		Passed
+
+
+	1337		143		Passed
+
+
+	13		38		Passed
+
+
+	100		-1		Passed
+
+
+	70794		33477128		Passed
+
+
+	1		1		Passed
+
+
+	3		1		Passed
+
+
+	7		1		Passed
+
+
+	10		-1		Passed
+
+
+	420		-1		Passed
+
+
+	12340		-1		Passed
+
+
+	100000		-1		Passed
+
+
+	8296		746		Passed
+
+
+	15373		14914		Passed
+
+
+	18730		-1		Passed
+
+
+	19962		21252		Passed
+
+
+	22591		337		Passed
+
+
+	37114		1196		Passed
+
+
+	37543		19		Passed
+
+
+	41230		-1		Passed
+
+
+	46415		10827		Passed
+
+
+	48677		79		Passed
+
+
+	58955		9097		Passed
+
+
+	67211		117		Passed
+
+
+	67573		1373		Passed
+
+
+	69066		425962		Passed
+
+
+	77271		6985		Passed
+
+
+	80421		1139		Passed
+
+
+	89015		6405		Passed
+
+
+	91379		803		Passed
+
+
+	94951		8017		Passed
+
+
+	97982		4857		Passed
+
+
+	21951		-1		Passed
+
+
+	26673		-1		Passed
+
+
+	35564		-1		Passed
+
+
+	48505		-1		Passed
+
+
+	53346		-1		Passed
+
+
+	65853		-1		Passed
+
+
+	71128		-1		Passed
+
+
+	80019		-1		Passed
+
+
+	81		12345679		Passed
+
+
+	162		172839506		Passed
+
+
+	243		122633744		Passed
+
+
+	324		86419753		Passed
+
+
+	405		135802469		Passed
+
+
+	486		61316872		Passed
+
+
+	567		49382716		Passed
+
+
+	648		45987654		Passed
+
+
+	655		77913		Passed
+
+
+	729		54581617		Passed
+
+
+	891		61728395		Passed
+
+
+	972		30658436		Passed
+
+
+	1053		27445394		Passed
+
+
+	1134		24691358		Passed
+
+
+	1458		33463648		Passed
+
+
+	1539		12345679		Passed
+
+
+	2019		819		Passed
+
+
+	2025		28493827		Passed
+
+
+	2673		21324205		Passed
+
+
+	5427		5343466		Passed
+
+
+	6061		4022		Passed
+
+
+	6075		9512757		Passed
+
+
+	6156		10721051		Passed
+
+
+	7317		10944224		Passed
+
+
+	8081		445372913		Passed
+
+
+	8691		21627991		Passed
+
+
+	8791		284141962		Passed
+
+
+	9396		9034588		Passed
+
+
+	9234		7340264		Passed
+
+
+	9072		7263998		Passed
+
+
+	9477		7259618		Passed
+
+
+	9153		6443745		Passed
+
+
+	9315		6226365		Passed
+
+
+	9639		5913435		Passed
+
+
+	9558		5011403		Passed
+
+
+	9882		4756102		Passed
+
+
+	9963		3001084		Passed
+
+
+	11583		338081671		Passed
+
+
+	15795		322822659		Passed
+
+
+	16162		272125907		Passed
+
+
+	17582		142070981		Passed
+
+
+	19359		67151919		Passed
+
+
+	17335		2942409		Passed
+
+
+	17735		2863903		Passed
+
+
+	18295		2853255		Passed
+
+
+	18435		2787649		Passed
+
+
+	19535		2667075		Passed
+
+
+	23615		213046407		Passed
+
+
+	23895		213006059		Passed
+
+
+	23166		207502374		Passed
+
+
+	24243		148460971		Passed
+
+
+	26373		94774654		Passed
+
+
+	28188		78004824		Passed
+
+
+	20745		2447809		Passed
+
+
+	20865		2414657		Passed
+
+
+	23475		2220415		Passed
+
+
+	23605		2171283		Passed
+
+
+	36585		158555101		Passed
+
+
+	32805		156988203		Passed
+
+
+	32324		138845731		Passed
+
+
+	34749		138334916		Passed
+
+
+	36855		137756071		Passed
+
+
+	39285		131599539		Passed
+
+
+	39905		126547901		Passed
+
+
+	35164		73740018		Passed
+
+
+	32886		66866992		Passed
+
+
+	38718		59403479		Passed
+
+
+	40405		128432123		Passed
+
+
+	43955		114844591		Passed
+
+
+	45205		110654961		Passed
+
+
+	47385		107607553		Passed
+
+
+	46332		103751187		Passed
+
+
+	49755		103527953		Passed
+
+
+	48486		90730469		Passed
+
+
+	42687		60873096		Passed
+
+
+	49734		53805843		Passed
+
+
+	49572		44177921		Passed
+
+
+	59105		85265241		Passed
+
+
+	50625		104019753		Passed
+
+
+	50255		101723773		Passed
+
+
+	51505		99047303		Passed
+
+
+	53055		98953535		Passed
+
+
+	51435		98764843		Passed
+
+
+	57915		98556505		Passed
+
+
+	53555		97249555		Passed
+
+
+	55485		96962051		Passed
+
+
+	56295		92348837		Passed
+
+
+	60105		89843429		Passed
+
+
+	67907		147259957		Passed
+
+
+	61155		83361851		Passed
+
+
+	62105		81330281		Passed
+
+
+	64265		78193197		Passed
+
+
+	65205		78058121		Passed
+
+
+	66015		77254527		Passed
+
+
+	67635		75389603		Passed
+
+
+	64648		69561753		Passed
+
+
+	69498		69167458		Passed
+
+
+	71404		56900301		Passed
+
+
+	76993		20664007		Passed
+
+
+	70065		72772137		Passed
+
+
+	71685		71842059		Passed
+
+
+	72729		71474635		Passed
+
+
+	70845		71015469		Passed
+
+
+	73305		69272081		Passed
+
+
+	78975		66463943		Passed
+
+
+	70328		36870009		Passed
+
+
+	82231		48644684		Passed
+
+
+	86686		239489657		Passed
+
+
+	81081		75183826		Passed
+
+
+	84645		66151479		Passed
+
+
+	81405		63251643		Passed
+
+
+	83025		63221897		Passed
+
+
+	80595		63150319		Passed
+
+
+	82215		62762221		Passed
+
+
+	83835		61772529		Passed
+
+
+	85455		59327131		Passed
+
+
+	97801		776995357		Passed
+
+
+	94514		31423478		Passed
+
+
+	92745		55839107		Passed
+
+
+	95175		55369455		Passed
+
+
+	91935		55145483		Passed
+
+
+	96795		54754415		Passed
+
+
+	96255		52984753		Passed
+
+
+	99225		52899873		Passed
+
+
+	96765		52711051		Passed
+
+
+	98415		52329401		Passed
+
+
+	8181		-1		Passed
+
+
+	8891		-1		Passed
+
+
+	9801		-1		Passed
+
+
+	16362		-1		Passed
+
+
+	17782		-1		Passed
+
+
+	17982		-1		Passed
+
+
+	19602		-1		Passed
+
+
+	21951		-1		Passed
+
+
+	24543		-1		Passed
+
+
+	26673		-1		Passed
+
+
+	26973		-1		Passed
+
+
+	29403		-1		Passed
+
+
+	32724		-1		Passed
+
+
+	35564		-1		Passed
+
+
+	35964		-1		Passed
+
+
+	39204		-1		Passed
+
+
+	40905		-1		Passed
+
+
+	43902		-1		Passed
+
+
+	44455		-1		Passed
+
+
+	44955		-1		Passed
+
+
+	48505		-1		Passed
+
+
+	49005		-1		Passed
+
+
+	49086		-1		Passed
+
+
+	53346		-1		Passed
+
+
+	53946		-1		Passed
+
+
+	56555		-1		Passed
+
+
+	57267		-1		Passed
+
+
+	58806		-1		Passed
+
+
+	62237		-1		Passed
+
+
+	62937		-1		Passed
+
+
+	65448		-1		Passed
+
+
+	65853		-1		Passed
+
+
+	68607		-1		Passed
+
+
+	71128		-1		Passed
+
+
+	71928		-1		Passed
+
+
+	73629		-1		Passed
+
+
+	78408		-1		Passed
+
+
+	80019		-1		Passed
+
+
+	80919		-1		Passed
+
+
+	87804		-1		Passed
+
+
+	88209		-1		Passed
+
+
+	89991		-1		Passed
+
+
+	98172		-1		Passed
+
+
+	98901		-1		Passed
+
+
+	21951		-1		Passed
+
+
+	37665		1510681		Passed
+
+
+	54108		47676794		Passed
+
+
+	25191		2731046		Passed
+
+
+	10019		138149		Passed
+
+
+	52579		19019		Passed
+
+
+	51775		1006835		Passed
+
+
+	6		1		Passed
+
+
+	99665		50346337		Passed
+
+
+	96335		53449		Passed
+
+
+	99997		166113		Passed
+
+
+	97137		89364		Passed
+
+
+	4649		239		Passed
+
+
+	99985		517219		Passed
+
+
+	2494		1616		Passed
+
+
+	99989		281438		Passed
+
+
+	1001		1		Passed
+
+
+	1215		46748971		Passed
+
+
