@@ -1,0 +1,439 @@
+	"yemzvysylv", 1688327277, 1095545480, 1653621341, 10, 1		20		Passed
+	"", 5, 2, 3, 4, 1		3		Passed
+	"cbexa", 0, 0, 0, 5, 2		2		Passed
+
+
+
+
+	"b", 1001, 1001, 1001, 5, 2		3		Passed
+
+
+	"", 9999, 50000, 4797, 6, 3		2		Passed
+
+
+	"", 3435, 1000000000, 1812447358, 7, 2		5		Passed
+
+
+	"prprp", 0, 0, 0, 5, 2		0		Passed
+
+
+	"", 23, 1, 0, 5, 1		0		Passed
+
+
+	"yjdfl", 523352556, 1077024198, 1558842954, 5, 1		4		Passed
+
+
+	"", 727276963, 1291795787, 506991530, 5, 1		1		Passed
+
+
+	"dukog", 421399669, 1715501491, 257283161, 5, 2		2		Passed
+
+
+	"", 1556361320, 104631284, 1171257677, 5, 2		1		Passed
+
+
+
+
+	"", 1053844077, 1325940334, 74733660, 10, 1		12		Passed
+
+
+	"djkiybpbkw", 1291510268, 1487634640, 271736528, 10, 2		10		Passed
+
+
+	"", 1597732568, 1665271853, 800313851, 10, 2		5		Passed
+
+
+	"jpdrhzhpwi", 1808785440, 1476672933, 1424808458, 10, 3		5		Passed
+
+
+	"", 972266962, 1321162894, 1645616575, 10, 3		9		Passed
+
+
+	"xwwgxshhximovztolays", 963393937, 1223180643, 470987405, 20, 1		86		Passed
+
+
+	"", 80375277, 1720704967, 1769325084, 20, 1		65		Passed
+
+
+	"ipieqjhfducvkhtfiamr", 552684170, 1238107987, 1451804814, 20, 2		45		Passed
+
+
+	"", 1131859263, 323675189, 188061237, 20, 2		40		Passed
+
+
+	"kvrmhnhzknfsohmbzmdm", 1052757998, 1364051264, 1073281706, 20, 3		24		Passed
+
+
+	"", 209727236, 865702384, 158492116, 20, 3		24		Passed
+
+
+	"taxykpczuapjmyqavyan", 103092347, 554577587, 968425020, 20, 4		20		Passed
+
+
+	"", 242832731, 1254718583, 539185079, 20, 4		12		Passed
+
+
+	"ssrchzyxtekfzyjdcjuy", 1210162632, 293153716, 1634820416, 20, 5		15		Passed
+
+
+	"", 1704268195, 1325071046, 102425463, 20, 5		9		Passed
+
+
+	"kehswgvbzp", 1414434119, 211242791, 640094469, 100, 1		2222		Passed
+
+
+	"", 788474527, 437508975, 1674884978, 100, 1		2413		Passed
+
+
+	"otgeeebzqoronvijbuigvtikujpgatkvgbfkvsbkvprsydkfqzuqqqpdoovxwhnjrkwzlecohtxzhhfpniapdcmjrgibvlawzbyz", 222854523, 1613986530, 1759736237, 100, 1		2441		Passed
+
+
+	"epkcekvurr", 538472067, 998147139, 1571032244, 100, 2		1197		Passed
+
+
+	"hjwgqlrhbe", 1401508551, 548631978, 255593435, 100, 2		1273		Passed
+
+
+	"qdsqyofjlr", 491452683, 145808032, 1668270695, 100, 7		355		Passed
+
+
+	"sdncfuizhf", 371150957, 209350003, 935796599, 100, 4		614		Passed
+
+
+	"rumorctxev", 866654107, 821311959, 1349092646, 100, 8		243		Passed
+
+
+	"gjjesyifaq", 1363287920, 4438327, 1482709058, 100, 31		58		Passed
+
+
+	"bkqekneydv", 264513257, 1587589311, 969545177, 100, 65		20		Passed
+
+
+	"tckpwpptxf", 825411415, 417589288, 1322957581, 100, 98		1		Passed
+
+
+	"wpbyzwovnx", 1570020300, 821616299, 492516193, 100, 80		9		Passed
+
+
+	"lryhaozhto", 1730539020, 1692359041, 1779885958, 100, 43		39		Passed
+
+
+	"gpmeqzrsgetipamahmufysrblvdzcrcodavdjdqkkwsmewelyhtqjbtojgqngbehenspewzxcwmujointshhnvpvqnfshrltvryg", 1538840086, 439187266, 1418582696, 5000, 10		604204		Passed
+
+
+	"qmbilrdigjqyysybiacygcgeimuxabnkvomqditzvmduholtlpfbjwuswhxqquwdbesegjzeuqzovctvkfwqsvtgtgpnnidbtxpk", 249153007, 623050470, 434884292, 5000, 5		1204372		Passed
+
+
+	"pcejhumhbxnbxzmurimkydaebmpugvdlhfticjuhpymptigernbjeggvqrfccicwmlvhkvfbbruybifjeohdyhyazfcmfuacjzgg", 1333513116, 280474525, 1437245133, 5000, 5		1212602		Passed
+
+
+	"xnyvkilugiepxlqxqhouhrwvclqozuctsojmbkdrkafggzuyfrbmrwamwmqkeziibhvquwqowplreqkayudyztmtvuxzxfgtudom", 977558681, 1660356425, 1789278556, 5000, 7		847991		Passed
+
+
+	"mcchxdpeoceubacnikxexuzkpsjmremtmifkoveuctrmquqlpbinafxondmbjwaqwyvmdlteionnbhpdmbveuxbwloqxxxchtmfv", 1737992378, 1059351873, 517302919, 5000, 11		548617		Passed
+
+
+	"lhjnwpnhklpjkwtepodikskdlhnrahhzdjcqwnecdvweemlvrbycqlukrsmpinhvagxqhxkbqysyicpqigzxjacbolwkqelludxt", 1610663959, 1738747276, 1695138206, 5000, 31		194408		Passed
+
+
+	"ijstpomcjognojkgyfwcuxjzrvxjbyhotsyyaugpufsqrqsvlznemvuevjltgczxgimoprkabkajoycgwbasdywdlhafypetsozm", 783993985, 141176204, 1669390997, 5000, 58		102325		Passed
+
+
+	"xiboguancgkbkmkyaiurvhydhopvqsxkvxglakppntadvnagslirkpqwpvbrhnlfgoapoaxemcllukxsnymhrjartctfraqdwkua", 409014381, 1616882830, 60266671, 5000, 85		69253		Passed
+
+
+	"qqsszhfitcmpzscgitbvugtvlazcbjuqmgfioikubibcdwwdsfctfiiosdwluudtmvnycrgnfbekxplfyzemjuiwkhdjcrcxrgae", 1615479636, 765525779, 852652046, 5000, 1179		3872		Passed
+
+
+	"zrrpvomrgbicjhfsyqfzdvkjvawtoqmsukifywzkcgwitpqmuwbfxcgjsnnwkvxhhtzpbwwgrbqjasqlibbropibdlbelmqjwkqz", 1557101985, 554046773, 316349853, 5000, 372		14950		Passed
+
+
+	"vuxssovsdcmfgsoeeutddnlnzshxsfzmgmaolkjapaafckoruhcxdysgebhwvpcnuamvwmpegbbihriqdidzklvruxtxowajcrwh", 1229706944, 412202598, 400120939, 5000, 3574		687		Passed
+
+
+	"wrilaorsxvzaukavvhnzgrgopsmythrjpoevqiypnionhjigrzbuhcnjbvvvlbrrfndzlclrhgphzrnkzbohnplrcgpgiqnifpsg", 938635776, 1005181664, 231158714, 5000, 833		5969		Passed
+
+
+	"irbunwpqtiiildnfoftdicrmcikysbsywobqxpefzucqjtbzlkshspzrluepikfswxluwpktudfaaoqqthkaoutberpifaptywzo", 1729010843, 729497756, 72929968, 5000, 1		5982132		Passed
+
+
+	"nvnarrsgjundrkvbcrvmiesabsebrjbwvudommmudeoebmoscxcgzkfawmawjmqpwrvfygttjkveduvdnpsjbqyxunefkvuyuhqa", 1566861521, 161424794, 394565271, 5000, 1		6011666		Passed
+
+
+	"yilqewtxnmcbsdsdauaugrlkkumywfwgngwrikmkgalujdacuxanxbaqdrpbclgvrxfmzhvofytpmyetqchxmqrbvorghltfdnkf", 455517672, 980560477, 82640460, 5000, 1		6097970		Passed
+
+
+	"gozwrngjdydvuykmdyglrqtuydctgheyifxhxrbkihjhmyndjkydxcumtgjnhpwisetpjcenxaihujzmcfpuragxypjluebivwyo", 181310466, 1187860566, 1577964463, 5000, 1		6034434		Passed
+
+
+	"sphnwzivvlpjctnqdfkircupgbvlkdpivzvtkehnbamzpuedbxmtdymnqoghsclnrrcvihpkkzbfqnckqyppwvalcexdpemkpxln", 114607982, 1492713205, 213427559, 5000, 1		5991678		Passed
+
+
+	"tkmhbimzqosipfpsvmjihhcvgdrgelpfbzumhgokbrmfqipdcgunevwrzjasbtxijqodzcwliysvhkoiwikplftvicjrhzusvcxs", 244216359, 1085463407, 1186735726, 200000, 1		9593309346		Passed
+
+
+	"nbqqimwrigoyzliayyjvjrnrgdbywlxgaeqkcogpmwcxnnufmhyyicnbwuwluqepfgjfuqlukeqrhnhfnqfwstqxwpccbglhdpmn", 1049727292, 1378983198, 1452218781, 200000, 1		9614921137		Passed
+
+
+	"qosukrivtmfhuvizcmudbxflqvrocktftrpmlfwabnafzyontuamltzmwszaftfvhdojlbtedncywcygcdirlfmthmjzvhnrtauj", 1766526237, 1078726576, 853045077, 200000, 1		9618582930		Passed
+
+
+	"iznbooecznkvolgnhhtkonhpanrnmuqzlmwbkjraqepnneqqpjqtjepyxpvtwoetyokdsyqhtvcuatrjufztrdhgzeckfkennavf", 354195803, 1503639799, 1503840648, 200000, 2		4817182921		Passed
+
+
+	"mwbeifgicpcuwioamzbxhgnpmwdmgwwcsaxyetqjjnbczfizbwdtbxgnbijhopwlaaigruyblzcowuipavahaunwejlmmsqvysxt", 51904102, 1338730096, 1173355330, 200000, 2		4811859801		Passed
+
+
+	"nmpiiauevmjdgddamupwowindiwkgbltfyyyzwirwownqtywpbhgntlhjlcfgxueysugfupdgkeccylaymjxshkjvbxehbiojpne", 798532870, 318813339, 836935671, 200000, 2		4817397425		Passed
+
+
+	"bhvxjasmyfkugijywjasjaezptmshsjzyinexpwpccudrapqfrvykomxsapegzjsmutlglogtkkijuwnevlwlzeeewiyfdsexxpp", 336615727, 186988812, 297761552, 200000, 3		3215523763		Passed
+
+
+	"yackrolqjfqrmjlhxxhplcjedhlecegfnknorglxcksopokmroerqvyebabfnuimsuilxthvtbllrisbhyafshoxmeprzbdseudo", 1510427162, 1726684253, 797729113, 200000, 3		3204520060		Passed
+
+
+	"shyxlwhwoziwcnijfstdshiqyuidbrixishufzdzujggjfjmrhirzkhaippdrubhuvsktnsudiyztmprjqkzdijkiiklnkdhaafq", 1245715978, 436191245, 1739530602, 200000, 3		3200920068		Passed
+
+
+	"srvsirxsvikzzzzxmssquyacrxxljujnhyinflbazvrrvwuvuytfapqbygtcfsndmwlrbcngeudqwwkgteutoggzotchrgeixtmu", 1645444649, 656869398, 1407326250, 200000, 4		2402691776		Passed
+
+
+	"ivpaomsxvyijuscrzymnsyzcohjebouvkhlxmqzgrgcuhroqwsglzixanezyujysznnpzeyvkyfzjztbqxnahkvdvvxgdtjzkqfq", 366580250, 1073850481, 1620794041, 200000, 4		2403486972		Passed
+
+
+	"kkwcbvmgbyjtkngydzafqsqqsnlimaponvashniwmkqkpqolkhzmhqujhlvkhmcneyhnxljfuvjccdlbjxdegqzstmtcofebrtga", 1574423433, 1400949403, 209740658, 200000, 4		2404294232		Passed
+
+
+	"qxuihcrplvkouprpkdtdooeahgumxojyicpdlfztyxxevwjylphahzdlwvczuxiuwyfhvpynarhpzxmiickwkzeneoqytsjzfghf", 926076980, 1535252609, 176160467, 200000, 5		1924818333		Passed
+
+
+	"xadctyvqnfvhaffmeiojxgjwtblibpfsrlcuhnbsfkmloycjssdxgbxrllzalazprtbddqhfeohbhkmrxistopfixankiaeaivvq", 1280448161, 1772233904, 1369120807, 200000, 5		1923152538		Passed
+
+
+	"czlboefhhudastwzruhrriigfkpcjkicniqjeqhcxwqhilgxtsvkxpeqecqmtvdpwejvtmqxdjrzkhyrsqxpjwshnkqksvwovslg", 1303953163, 755038335, 1330701615, 200000, 5		1922696404		Passed
+
+
+	"yesaptwtayqveodybhefqfevbqklgcwjaaddskrpkwkgbutfwqlklxdzcoxzeeufuldpejdlzgwdfiobqmtdmyeecggyzhahgosd", 1612944368, 1430619849, 97596968, 200000, 6		1607753461		Passed
+
+
+	"ntllzvhhbakrzdhfucnlbhhnzstdpjwifuhkfwxehrogqjxdsibgnfwoxhkczxfmmuoltmrcdbacwmnofeuptrdnjrgbbgdkkukq", 1203688428, 1245457540, 1216561453, 200000, 6		1601406827		Passed
+
+
+	"mqafwqftibcecknyzfzjqmheswklsrcjbwpffeyqylxyvwohaqljfxdkhxsoengyctzundijtnwteetktyzouiuxbibfmdnouxuj", 711188106, 605084715, 386737788, 200000, 6		1599870778		Passed
+
+
+	"ggyjawuoawvubpflvlejvofdqggwyxbmsyehreyoyelgginnyxfwmiqgcsexlxqhgjscsqiengronfakqnccajvybipsjuijisji", 276676898, 790629209, 989127740, 200000, 7		1374418832		Passed
+
+
+	"sllhlxgxapelzafhjhpioemaovrjkznspvfcbytzqpgsjcvjyjrxbmptngtckavyvwejwuagtgxtoudvvqeszvecfvtlvitcughd", 110623083, 1237583191, 873199653, 200000, 7		1374723197		Passed
+
+
+	"jsednuuedbfrpwgezhevjkkrsedfgwtrjriulrybzvuohxxrlzaoaesidxzvpwkfdrjaxnvjzmwmbmqklpajxczphpgufplovftb", 652658684, 966735118, 1014949821, 200000, 7		1371481533		Passed
+
+
+	"eemtgyvbeurenqhfhliyyfnhxmvhvbggbotrjnaqlzqiaxqdeyrrscqbnwxlokusesvayktnvropaakuvmshswaghsbisgfejess", 666606534, 761301879, 614246601, 200000, 8		1199446422		Passed
+
+
+	"sydsygednuogdtwrbhgoobztzrqpivotwmtfyapholpwrdadpvxmuligwrrpshpgraxcdhriczaklnmcmlmsuxsoctstebufydow", 1661483809, 1082565927, 891295750, 200000, 8		1200355171		Passed
+
+
+	"usgcpzxfwlcoupnanpxyywrequdjghydgvkpsdtjdueebhoqqsudoimfzyufxztfwclzowybhteozfgatclgvjqeovzuobbfhnen", 585375725, 1690631837, 1584771908, 200000, 8		1201526012		Passed
+
+
+	"deijadspfpmbkglrnxprpkrstzbtqzmmfqphbwurbsxylyyqgoxupnfclpnsxhqyhszwobzeajokqauxwnmhampuzzwzqasuffqb", 178976215, 1293286083, 1245774316, 200000, 9		1066042748		Passed
+
+
+	"vezwagvqlzzbjjhohkfhoxadqppdsbblsoxlnptrjahuvxuygrnvapxghpdgugudxivxmbpostypnsixhyvykgafkhdnbllcosys", 360913030, 841555405, 1810674375, 200000, 9		1069665021		Passed
+
+
+	"khsvxrefjvejozyehazyfmwjkdilrpxmkjbqryxccwnoukqmvskzqxfrscbkmlsndvahpoqmlrxqbbbdicmqphsjyuhkvbcnxofu", 1415249982, 568680919, 270571479, 200000, 9		1071994186		Passed
+
+
+	"aiulsucbcjseemtvuenwpissocsqfadajmatvezwoybbagizmvgsnkgmcesnwjfmrqapzpqaukldjlrpfcpgwvmlbpbgxlqsllcz", 995926393, 637661690, 105335209, 200000, 10		962083072		Passed
+
+
+	"sselgknbdoruqntvsfqiiumwsxizxliseaoksjbvmpprrqgmgkgsnjlrkwymfsksubdclphtrvhqxbngpylfhvhtengnzoeanxgn", 1745371506, 1806759241, 1496584062, 200000, 10		959873971		Passed
+
+
+	"snsiokhqylwoqdnailmiofcgnfvxckhteajlibmyewhicdyuovmfihxobnhycephtcocpzcwckdmhvmirwlgkzcyqxzavbnpuduc", 1670886873, 1393998076, 270673521, 200000, 10		960075486		Passed
+
+
+	"lagbntimdxzdjhjucfyytidgsssvwscayksmuntgrraqppparhbscpdruvspxsyrdfogucqfjjpnmutrfadmucpndjucuxdkrjvq", 1032951837, 357453925, 1720262412, 200000, 1		9630940834		Passed
+
+
+	"pdeupdheamunfxtudngumromoorcmmkdiosusnflgsqzwmcpylidcrgvntoimuyyesejtuthfoepdzlyrxefsbyzwvfevkhfqpjy", 718210646, 441138752, 1518908923, 200000, 1		9621743777		Passed
+
+
+	"wywgekouiksmkdorpwmocaecrbvvdubgxvfqcrdwchdfekzrcwurobwkdpgcppbjspolhykihqkkbjohfgihesgweycmmoicczpm", 1690203173, 1219691160, 1362314856, 200000, 1		9645000349		Passed
+
+
+	"tbfjzuepougmtzwzjmswxhgxqqkozpavzhythvkuccuyqmahykhrjlxcdmgogsniwirbahwwcbxgiqpqheegwcyjohlzkwyjtyww", 1404919646, 1627815943, 933290045, 200000, 10		960914918		Passed
+
+
+	"lqgazzcmcbftjuexsmsaclwndqesbufhjlykersoflsnerahxpiezrldjhjunpfagsghiteswovyczfkzgbxjjhyjbnitlypaqmx", 1785943194, 1436673199, 386930794, 200000, 8		1204346389		Passed
+
+
+	"jlqzqwdthnvotoyvcebpkwyfuxaljgngdvkgwpfvtgubssbnsvzujqcjusqnvlhhoaslruppyuakhmxbyudfdilodjvybmpriwzk", 965573077, 780618398, 1279630760, 200000, 5		1925318743		Passed
+
+
+	"rocmblzirogodkpusuogiagmgeztaglzanqbwfbdbravfjhcemaoxtkhwhowogwgpdcohiytxxlmexogqspvfmlffzkprxsofrzl", 327076500, 1590478586, 1586252283, 200000, 1		9621919395		Passed
+
+
+	"utgdblqlogzbizhvvoakyikhmbhonxolsivoboqixwsojjckirdpbftaytdlmgtgtaeqpkfsjhggtxjzuuiltenxbkngopvaehck", 546631937, 1437890581, 585275972, 200000, 6		1606005399		Passed
+
+
+	"obilnjprobzlhgdlrfxdozyfsenagkqqnpkvcaxpixqbfoofiufidakufhpzfvxpelqgfovshvtggaigbxtlewekejvlxvbhujnp", 206366234, 604878762, 1283625866, 200000, 2		4814592772		Passed
+
+
+	"rpbkkcysoxpheebqhuzlhdnncsdvkejisdeobpfrtuvgshdttmzvfsusucneeinwhdgkjgdoqsedfvdgwmlmoylfguvzxsqzaskh", 1031376109, 857781534, 784855094, 200000, 5		1926867818		Passed
+
+
+	"dcbkvfrmnnqahyfenpfcyuinetwdpdqtjzycpjoupvivhieoftsgpsfxziwuuvodcpnxixnjgkdtlkoyumyxnouhfzqamdqpcmjw", 235034077, 1183152063, 1153537360, 200000, 3		3208456523		Passed
+
+
+	"mdwialidkknefujrklbpgvrkzzsaefceqwfqfmvfponrgqaatpwlvwxvzwnljrobihuvwcyspaomxvsowrwyitfmmrwuitdahjud", 1067379165, 719800584, 517689284, 200000, 69		139071512		Passed
+
+
+	"nbpprstwhlwniomrdveqxxjndboivxlpwzkcjkuenxzhqthwztngnjncxvgoncpowmfdubmtkarfwkcjjcbdgsoubfbdyqmlmwox", 1175772593, 5605082, 767501916, 200000, 5		1922860008		Passed
+
+
+	"fxmqrrcfovvwuvukrowdvgtnrjkrwvjuztjywrxmlgrmehxappcysbqnjctqihnxlimhyjtgiosplptzohidamhwxteastlfhqse", 1629169495, 354725923, 729838883, 200000, 19		506216682		Passed
+
+
+	"rxvlzrqyaevvpikjjtpprtvpvipvzlajilrwjfcqljybwctrhudkpcrrhinznndbybqraszxyqdtmcuusflqrschpdghkhjexvhv", 1360592118, 678369126, 981340842, 200000, 96		100023968		Passed
+
+
+	"ujbxzqokglrsiujqksfnmfqnwpcamlzakzcgelfqsnmoytqxtktjhpyccdbprubtyonqkeiwxzvoothxaqoynzsboqtetdiyunwh", 359910259, 1548557607, 1049954645, 200000, 91		105653974		Passed
+
+
+	"qaapdoaqxfjdfzelisyxfawyucgunqbsqltibfbwgsiocjfvsekxmmfigoosrgfabaivgixrlvygngcvmzghapwsoukfdfzdfbhh", 390993303, 919859884, 1615640892, 200000, 76		126489648		Passed
+
+
+	"pvuqmcnmetzupkscfqmprggqttpbooerxlmebcxagzyeehsfkpwzsedmaytddeaokkuvhemwtfddopqorysvofrnqrismvoevgyh", 114853777, 1690306344, 1769572534, 200000, 60		160091310		Passed
+
+
+	"iinyvbbhxekrnljylzgfpiahvabiqxkeyinidlbdztavdsaiacghiiwdapxccauylaeumulipmjxgegvjsukxdtfoenmjeoncyfu", 839151186, 1322060699, 325579384, 200000, 55		174893102		Passed
+
+
+	"rbahwpuhrqfaqdfykywuffevgrtaxawqttablabrqkgikoebsxditzhrbszogqyoybknhbxkifwscpqxeyvohpnxodwftjlafzyl", 1583213533, 307144999, 1461306151, 200000, 71		135464854		Passed
+
+
+	"wopcjkidzetnhgpxpdtdhvhzikxyeldqjvqculgnitgfommxchrefveiazaeskegxdwiuexcpgbkyryljddxtfmgragtssuorveo", 680513604, 987415515, 210247056, 200000, 176		54630633		Passed
+
+
+	"uakgifsidmmpdtvgwccpwosivmxmdakmcmcjnwhwlzmwrvnmqgnywcukdwqrwlmweetnivxyolgheziltdzznootfmerlfkjkekh", 19841644, 893664155, 1229529129, 200000, 127		75553032		Passed
+
+
+	"theyxisupjgktggxtlmcfmoynsdrcnqkcdrhcxnlzlehhsshdpdqgobvwpnvqhdgopzkpcxpsalqgzoekpwnaudtxdaduwbbrmtu", 729248638, 140197080, 443745535, 200000, 437		21961673		Passed
+
+
+	"ssejpowbnqiokjijeieloueewtvxgofammgpppyzhmyzryiteviggacsorbtcdohybgiphbsiqjclluqyxqsokhnftcagfuhdhac", 179300973, 70579968, 1107958267, 200000, 297		32313918		Passed
+
+
+	"scoluxoxgaegdxdeequnuptdfylfepridndzzsljflxdjjfqzwodverzzqrmsdzuccmzxqoodpljwsremsnqeglojtdrpesdcuxb", 359427646, 1360558925, 821338661, 200000, 275		34839578		Passed
+
+
+	"weezsqlksbgkttzhgaaxyflqeegykwdjvmsnlecmhdenugrpoyteiivnxxmcsbwwqyhfsmwvobtvqbxpyhzolevlwtemtqdvhstf", 731613600, 1499805343, 227648100, 200000, 900		10634483		Passed
+
+
+	"dnnjgkzpgewowzozrwjbbulgtgitwhugyewkdxwdodktsiskmexdtbuebzjlbxlbxhamjdsupgaksnevjnngicobopumpwaapliq", 1198931029, 544781039, 162780925, 200000, 104		92347245		Passed
+
+
+	"qaxwgobmiwiwlknszmiawyzyhcpngosxqkbcshgcmimmnvaqcvwsjtxuxykibgzxyqasmspoahyqbbhduvupawkiadputucirtum", 1178707249, 152113991, 957392158, 200000, 175		54995021		Passed
+
+
+	"zwwsoiklyligpcrtvgvfkaunjxpthrvjtddszsvigosbasixutlpkhprwdunfpmjsgeultkykpevqgzvvnpubrasvwkwwknqupeq", 1198051202, 926449854, 1006631896, 200000, 4625		2031504		Passed
+
+
+	"wguybzigdveuvdrcfviejhikmejfgippkhesgmmogzxnhjhoikpsgjlrnvolaazrnyungaamshyuavrkpxusweqfatbnpuryyavz", 1492107875, 895115875, 710731825, 200000, 169		56848008		Passed
+
+
+	"lenfedgfexgzxejapvugnyjzjsuhljiyqnpckvpkdsoztbdqfsqmclhefupccaapklczktufgqjufjkhnbbneqawbakqtltsydcj", 1199388508, 1296697454, 1340223910, 200000, 10456		874203		Passed
+
+
+	"recogaocbxlcrrswzfhxqiaccmqcvihjnsiftruvcediwfxtpnlnwsswnckhbyvquwxnisvxaobbmlonjiqeesdletwmwomtsoqu", 725043107, 1166529189, 966019721, 200000, 88452		64882		Passed
+
+
+	"bpppdzhdmeykakdpvjnfbjztqimthjgakkuaewjfcbvmnompbivtcbbqxxvakayfaotyarjnivlbngxmgnpelqxzneqitwzmygao", 1730400136, 369399395, 1538840849, 200000, 57127		124230		Passed
+
+
+	"dqkdpucdduvpobenhgpbsrjilcjbectdzcsbmgekkilfxjgprtiwvamspmvwnvmfsjdzltufbckampdhcmdigqlajmixyydcxwfr", 1768480956, 967653796, 460243852, 200000, 56035		126900		Passed
+
+
+	"fldfdtieemzzmesbjukvtyjbtogjwzivgmuwlmxmbclsvuefkwvrxqdofhfbehkkhyoeavdmyvuqradcdlgphihmbialnknbltjd", 1045017937, 1806947955, 1307001907, 200000, 127432		34853		Passed
+
+
+	"imbuvikhjplrmueseqqnnfyawkjfpzdfxgkptvnluuqfferhrbwbltadqkqacwgipctcxzwuddwcxeyomppsggyozohiavhyjqny", 726892756, 1519129252, 636934917, 200000, 200000		0		Passed
+
+
+
+	"", 143, 22, 315, 1, 1		0		Passed
+
+
+	"", 3435, 1000000000, 1812447358, 199999, 2		4805510065		Passed
+
+
+	"", 3435, 1000000000, 1812447358, 200000, 2		4805560071		Passed
+
+
+	"", 2, 2, 2, 200000, 1		9594142603		Passed
+
+
+	"", 1, 7, 1, 200000, 1		9624987344		Passed
+
+
+	"", 3435, 1000000000, 1812447358, 200000, 1		9611197121		Passed
+
+
+	"asd", 43, 44, 4321, 200000, 1		9608753846		Passed
+
+
+	"", 3221, 12312, 123, 200000, 1		9626820073		Passed
+
+
+	"a", 10, 41, 5555, 200000, 1		9613987483		Passed
+
+
+	"abcdefg", 213213, 324324, 345354, 200000, 1		9607084069		Passed
+
+
+	"", 102340, 12345678, 12345, 200000, 1		9606984401		Passed
+
+
+	"", 3435, 1000000000, 1812447358, 200000, 50		192182469		Passed
+
+
+	"h", 6334, 26500, 19169, 165724, 9		734628036		Passed
+
+
+	"", 69, 69, 69, 200000, 5		1919444038		Passed
+
+
+	"", 25, 1, 1, 200000, 1		9616026903		Passed
+
+
+	"", 12, 51, 23, 200000, 2		4801156263		Passed
+
+
+	"", 3435, 1000000000, 1812447358, 200000, 14		686478505		Passed
+
+
+	"", 123, 239, 321, 200000, 100		96092972		Passed
+
+
+	"", 0, 1, 1, 200000, 1		9616080754		Passed
+
+
+	"dcbae", 213213, 324324, 345354, 5, 1		4		Passed
+
+
+	"aaaa", 0, 0, 0, 4, 1		0		Passed
+
+
+	"", 1812447358, 1812447358, 1812447358, 200000, 1		4999950000		Passed
+
+
+	"", 1, 12, 123, 200000, 1		9623417808		Passed
+
+
